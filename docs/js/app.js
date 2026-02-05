@@ -10,6 +10,22 @@ let markers = [];
 let sortColumn = 'probability';
 let sortDirection = 'desc';
 
+// Geographic region order (North America W→E, Europe N→S, Asia, Southern Hemisphere)
+const REGION_ORDER = [
+    'cascades',
+    'sierra_nevada',
+    'canadian_rockies',
+    'us_rockies',
+    'northeast_usa',
+    'scandinavia',
+    'pyrenees',
+    'alps',
+    'dolomites',
+    'japanese_alps',
+    'andes',
+    'oceania'
+];
+
 // Unit conversion
 const CM_TO_INCHES = 0.393701;
 
@@ -128,7 +144,7 @@ function getMarkerColor(probability) {
 }
 
 /**
- * Render region cards sorted by snow probability
+ * Render region cards in geographic order
  */
 function renderRegionCards() {
     const container = document.getElementById('region-cards');
@@ -138,7 +154,17 @@ function renderRegionCards() {
         return;
     }
 
-    container.innerHTML = forecastData.regions.map(region => `
+    // Sort regions by hardcoded geographic order
+    const sortedRegions = [...forecastData.regions].sort((a, b) => {
+        const indexA = REGION_ORDER.indexOf(a.id);
+        const indexB = REGION_ORDER.indexOf(b.id);
+        // Put unknown regions at the end
+        if (indexA === -1) return 1;
+        if (indexB === -1) return -1;
+        return indexA - indexB;
+    });
+
+    container.innerHTML = sortedRegions.map(region => `
         <div class="region-card" data-region="${region.id}">
             <h3>
                 <span class="snow-indicator ${getSnowClass(region.avg_snow_probability)}"></span>
