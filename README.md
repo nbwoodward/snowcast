@@ -40,14 +40,62 @@ A web app that shows which ski resort regions worldwide are most likely to get s
 - **Daily Updates**: GitHub Action fetches fresh forecasts every day at 6 AM UTC
 - **Free**: Uses Open-Meteo's free API - no API keys or cloud costs required
 
+## Weather Clients
+
+The app supports multiple weather data providers through a pluggable client system.
+
+### Open-Meteo (Default)
+
+Free weather API with ensemble forecasts. No API key required. Uses ECMWF IFS ensemble model (51 members) for probabilistic forecasts worldwide.
+
+```bash
+# Uses Open-Meteo by default
+python scripts/fetch_forecasts.py
+
+# Or explicitly set the provider
+WEATHER_PROVIDER=openmeteo python scripts/fetch_forecasts.py
+```
+
+### Pirate Weather
+
+Alternative provider requiring an API key from [pirateweather.net](https://pirateweather.net/).
+
+```bash
+WEATHER_PROVIDER=pirateweather PIRATE_WEATHER_API_KEY=your_key python scripts/fetch_forecasts.py
+```
+
+For GitHub Actions, add these to your repository:
+- Variable: `WEATHER_PROVIDER` = `pirateweather`
+- Secret: `PIRATE_WEATHER_API_KEY` = your API key
+
+### Google Maps Weather
+
+Premium provider using [Google Maps Weather API](https://developers.google.com/maps/documentation/weather). Requires a GCP API key with the Weather API enabled.
+
+```bash
+WEATHER_PROVIDER=google GCP_API_KEY=your_key python scripts/fetch_forecasts.py
+```
+
+For GitHub Actions, add these to your repository:
+- Variable: `WEATHER_PROVIDER` = `google`
+- Secret: `GCP_API_KEY` = your API key
+
 ## Data Sources
 
 1. **Open-Meteo** - Free weather API with ensemble forecasts
-   - GFS ensemble model with 31 members for probabilistic predictions
+   - ECMWF IFS ensemble (51 members) for probabilistic predictions
    - 7-day forecasts with hourly resolution
    - No API key required
 
-2. **Ski Resorts Data** - Resort locations with lat/lon and elevation
+2. **Pirate Weather** - Alternative weather API
+   - Requires free API key
+   - Hourly forecasts with precipitation probability
+
+3. **Google Maps Weather** - Premium weather API
+   - Requires GCP API key
+   - High-resolution hourly forecasts with snow QPF
+
+4. **Ski Resorts Data** - Resort locations with lat/lon and elevation
    - 75+ resorts across 12 regions worldwide
 
 ## Regions Covered
@@ -123,9 +171,14 @@ snowcast/
 │   └── regions.json             # Region bounding boxes
 ├── scripts/
 │   ├── fetch_forecasts.py       # Main script
-│   ├── weather_client.py        # Open-Meteo API client
 │   ├── snow_calculator.py       # Snow probability algorithm
-│   └── requirements.txt         # Python dependencies
+│   ├── requirements.txt         # Python dependencies
+│   └── weather_clients/         # Weather provider adapters
+│       ├── __init__.py          # Factory function
+│       ├── base.py              # Abstract base class
+│       ├── openmeteo.py         # Open-Meteo client
+│       ├── pirateweather.py     # Pirate Weather client
+│       └── google.py            # Google Maps Weather client
 ├── docs/                        # GitHub Pages static site
 │   ├── index.html
 │   ├── js/app.js
@@ -144,6 +197,6 @@ MIT
 
 ## Credits
 
-- Weather data: [Open-Meteo](https://open-meteo.com/)
+- Weather data: [Open-Meteo](https://open-meteo.com/), [Pirate Weather](https://pirateweather.net/), [Google Maps Weather](https://developers.google.com/maps/documentation/weather)
 - Map: [Leaflet.js](https://leafletjs.com/)
 - Base tiles: [OpenStreetMap](https://www.openstreetmap.org/)

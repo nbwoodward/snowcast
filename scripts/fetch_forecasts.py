@@ -10,7 +10,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from weather_client import fetch_forecasts_batch
+from weather_clients import get_weather_client
 from snow_calculator import calculate_resort_forecast, calculate_region_summary
 
 
@@ -80,14 +80,11 @@ def main():
     # Assign resorts to regions
     region_resorts = assign_resorts_to_regions(resorts, regions)
 
-    # Fetch forecasts from Open-Meteo
-    print("\nFetching weather forecasts from Open-Meteo...")
-    try:
-        # Try ensemble first for probabilistic forecasts
-        forecast_df = fetch_forecasts_batch(resorts, use_ensemble=True)
-    except Exception as e:
-        print(f"Ensemble API failed ({e}), falling back to standard forecast...")
-        forecast_df = fetch_forecasts_batch(resorts, use_ensemble=False)
+    # Fetch forecasts using configured weather provider
+    client = get_weather_client()
+    provider_name = type(client).__name__
+    print(f"\nFetching weather forecasts using {provider_name}...")
+    forecast_df = client.fetch_forecasts(resorts)
 
     if forecast_df.empty:
         print("Warning: No forecast data retrieved")

@@ -193,6 +193,7 @@ def calculate_from_standard_forecast(
     # Use direct snowfall if available, otherwise calculate from precip + temp
     if 'snowfall_cm' in forecast_df.columns:
         total_snow = forecast_df['snowfall_cm'].sum()
+        hours_with_snow = (forecast_df['snowfall_cm'] > 0).sum()
     else:
         base_elevation = 500
         forecast_df['adjusted_temp_c'] = forecast_df['temperature_c'].apply(
@@ -204,13 +205,27 @@ def calculate_from_standard_forecast(
             axis=1
         )
         total_snow = forecast_df['snow_cm'].sum()
+        hours_with_snow = (forecast_df['snow_cm'] > 0).sum()
 
-    # Use precipitation probability as snow probability proxy
-    if 'precipitation_probability' in forecast_df.columns:
-        # Average probability when there's meaningful precip
+    # Calculate snow probability
+    # If we have direct snowfall data, use presence of snow as probability indicator
+    if 'snowfall_cm' in forecast_df.columns and total_snow > 0:
+        # If model predicts snow, probability is high (deterministic forecast)
+        # Scale by coverage: more hours with snow = higher confidence
+        snow_probability = min(1.0, hours_with_snow / 24.0 + 0.5) if hours_with_snow > 0 else 0
+    elif 'precipitation_probability' in forecast_df.columns:
+        # Use precipitation probability as snow probability proxy
         cold_hours = forecast_df[forecast_df['temperature_c'] <= SNOW_TEMP_THRESHOLD_C]
         if len(cold_hours) > 0:
-            snow_probability = cold_hours['precipitation_probability'].mean() / 100.0
+            avg_prob = cold_hours['precipitation_probability'].mean() / 100.0
+            # If probability data exists and is meaningful, use it
+            if avg_prob > 0:
+                snow_probability = avg_prob
+            elif total_snow > 0:
+                # Fallback: if there's snow but no probability data, estimate from coverage
+                snow_probability = min(1.0, hours_with_snow / 24.0 + 0.5)
+            else:
+                snow_probability = 0
         else:
             snow_probability = 0
     else:
@@ -225,12 +240,27 @@ def calculate_from_standard_forecast(
 
         if 'snowfall_cm' in day_df.columns:
             daily_snow = day_df['snowfall_cm'].sum()
+            daily_hours_with_snow = (day_df['snowfall_cm'] > 0).sum()
         else:
             daily_snow = day_df['snow_cm'].sum() if 'snow_cm' in day_df.columns else 0
+            daily_hours_with_snow = (day_df['snow_cm'] > 0).sum() if 'snow_cm' in day_df.columns else 0
 
-        if 'precipitation_probability' in day_df.columns:
+        # Calculate daily probability
+        if 'snowfall_cm' in day_df.columns and daily_snow > 0:
+            # Deterministic forecast with snow - high probability
+            daily_prob = min(1.0, daily_hours_with_snow / 12.0 + 0.5)
+        elif 'precipitation_probability' in day_df.columns:
             cold_day = day_df[day_df['temperature_c'] <= SNOW_TEMP_THRESHOLD_C]
-            daily_prob = cold_day['precipitation_probability'].mean() / 100.0 if len(cold_day) > 0 else 0
+            if len(cold_day) > 0:
+                avg_prob = cold_day['precipitation_probability'].mean() / 100.0
+                if avg_prob > 0:
+                    daily_prob = avg_prob
+                elif daily_snow > 0:
+                    daily_prob = min(1.0, daily_hours_with_snow / 12.0 + 0.5)
+                else:
+                    daily_prob = 0
+            else:
+                daily_prob = 0
         else:
             daily_prob = 1.0 if daily_snow > 0 else 0
 
