@@ -1,0 +1,153 @@
+{
+  "regions": [
+    {
+      "id": "alps",
+      "name": "European Alps",
+      "countries": ["France", "Switzerland", "Austria", "Italy", "Germany", "Slovenia"],
+      "bounds": {
+        "min_lat": 45.5,
+        "max_lat": 47.5,
+        "min_lon": 5.5,
+        "max_lon": 16.0
+      },
+      "center": { "lat": 46.5, "lon": 10.75 }
+    },
+    {
+      "id": "us_rockies",
+      "name": "US Rockies",
+      "countries": ["United States"],
+      "states": ["Colorado", "Utah", "Wyoming", "Montana", "Idaho"],
+      "bounds": {
+        "min_lat": 37.0,
+        "max_lat": 49.0,
+        "min_lon": -117.0,
+        "max_lon": -104.0
+      },
+      "center": { "lat": 43.0, "lon": -110.5 }
+    },
+    {
+      "id": "canadian_rockies",
+      "name": "Canadian Rockies",
+      "countries": ["Canada"],
+      "provinces": ["British Columbia", "Alberta"],
+      "bounds": {
+        "min_lat": 49.0,
+        "max_lat": 54.0,
+        "min_lon": -125.0,
+        "max_lon": -114.0
+      },
+      "center": { "lat": 51.5, "lon": -119.5 }
+    },
+    {
+      "id": "sierra_nevada",
+      "name": "Sierra Nevada",
+      "countries": ["United States"],
+      "states": ["California", "Nevada"],
+      "bounds": {
+        "min_lat": 36.5,
+        "max_lat": 40.0,
+        "min_lon": -121.0,
+        "max_lon": -118.0
+      },
+      "center": { "lat": 38.25, "lon": -119.5 }
+    },
+    {
+      "id": "cascades",
+      "name": "Cascades",
+      "countries": ["United States"],
+      "states": ["Washington", "Oregon"],
+      "bounds": {
+        "min_lat": 42.0,
+        "max_lat": 49.0,
+        "min_lon": -123.0,
+        "max_lon": -120.0
+      },
+      "center": { "lat": 45.5, "lon": -121.5 }
+    },
+    {
+      "id": "northeast_usa",
+      "name": "Northeast USA",
+      "countries": ["United States"],
+      "states": ["Vermont", "New Hampshire", "Maine", "New York", "Massachusetts"],
+      "bounds": {
+        "min_lat": 42.0,
+        "max_lat": 47.5,
+        "min_lon": -76.0,
+        "max_lon": -68.0
+      },
+      "center": { "lat": 44.75, "lon": -72.0 }
+    },
+    {
+      "id": "pyrenees",
+      "name": "Pyrenees",
+      "countries": ["France", "Spain", "Andorra"],
+      "bounds": {
+        "min_lat": 42.0,
+        "max_lat": 43.5,
+        "min_lon": -2.0,
+        "max_lon": 3.0
+      },
+      "center": { "lat": 42.75, "lon": 0.5 }
+    },
+    {
+      "id": "scandinavia",
+      "name": "Scandinavia",
+      "countries": ["Norway", "Sweden", "Finland"],
+      "bounds": {
+        "min_lat": 59.0,
+        "max_lat": 71.0,
+        "min_lon": 5.0,
+        "max_lon": 31.0
+      },
+      "center": { "lat": 65.0, "lon": 18.0 }
+    },
+    {
+      "id": "japanese_alps",
+      "name": "Japanese Alps",
+      "countries": ["Japan"],
+      "bounds": {
+        "min_lat": 35.0,
+        "max_lat": 44.0,
+        "min_lon": 136.0,
+        "max_lon": 145.0
+      },
+      "center": { "lat": 39.5, "lon": 140.5 }
+    },
+    {
+      "id": "andes",
+      "name": "Andes",
+      "countries": ["Chile", "Argentina"],
+      "bounds": {
+        "min_lat": -42.0,
+        "max_lat": -32.0,
+        "min_lon": -72.0,
+        "max_lon": -68.0
+      },
+      "center": { "lat": -37.0, "lon": -70.0 }
+    },
+    {
+      "id": "oceania",
+      "name": "Oceania",
+      "countries": ["Australia", "New Zealand"],
+      "bounds": {
+        "min_lat": -46.0,
+        "max_lat": -35.0,
+        "min_lon": 145.0,
+        "max_lon": 175.0
+      },
+      "center": { "lat": -40.5, "lon": 160.0 }
+    },
+    {
+      "id": "dolomites",
+      "name": "Dolomites",
+      "countries": ["Italy"],
+      "bounds": {
+        "min_lat": 46.0,
+        "max_lat": 47.0,
+        "min_lon": 11.0,
+        "max_lon": 12.5
+      },
+      "center": { "lat": 46.5, "lon": 11.75 }
+    }
+  ]
+}

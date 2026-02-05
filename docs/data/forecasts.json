@@ -1,0 +1,3962 @@
+{
+  "generated_at": "2026-02-05T02:16:58.063993+00:00",
+  "forecast_init_time": "2026-02-05T02:16:58.064000+00:00",
+  "regions": [
+    {
+      "id": "cascades",
+      "name": "Cascades",
+      "avg_snow_probability": 1.0,
+      "resorts_with_snow": 4,
+      "total_resorts": 4,
+      "best_resort": {
+        "name": "Crystal Mountain",
+        "expected_snow_in": 21.6
+      },
+      "resorts": [
+        {
+          "name": "Mt. Bachelor",
+          "country": "United States",
+          "lat": 43.988,
+          "lon": -121.688,
+          "elevation_m": 1920,
+          "snow_probability": 1.0,
+          "expected_snow_in": 9.1,
+          "snow_range_in": [
+            1.4,
+            18.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.74,
+              "in": 3.7
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.9,
+              "in": 4.3
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.45,
+              "in": 0.8
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.16,
+              "in": 0.3
+            }
+          ]
+        },
+        {
+          "name": "Crystal Mountain",
+          "country": "United States",
+          "lat": 46.935,
+          "lon": -121.474,
+          "elevation_m": 1341,
+          "snow_probability": 1.0,
+          "expected_snow_in": 21.6,
+          "snow_range_in": [
+            6.9,
+            34.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.61,
+              "in": 1.9
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 1.0,
+              "in": 12.7
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.9,
+              "in": 5.3
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.68,
+              "in": 1.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.13,
+              "in": 0.3
+            }
+          ]
+        },
+        {
+          "name": "Stevens Pass",
+          "country": "United States",
+          "lat": 47.745,
+          "lon": -121.089,
+          "elevation_m": 1238,
+          "snow_probability": 1.0,
+          "expected_snow_in": 15.8,
+          "snow_range_in": [
+            8.4,
+            25.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.65,
+              "in": 1.7
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 1.0,
+              "in": 9.8
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.77,
+              "in": 3.5
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.39,
+              "in": 0.8
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.1,
+              "in": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Mt. Hood Meadows",
+          "country": "United States",
+          "lat": 45.331,
+          "lon": -121.665,
+          "elevation_m": 1524,
+          "snow_probability": 1.0,
+          "expected_snow_in": 13.7,
+          "snow_range_in": [
+            5.1,
+            24.1
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.97,
+              "in": 7.3
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.84,
+              "in": 4.8
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.65,
+              "in": 1.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.23,
+              "in": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "japanese_alps",
+      "name": "Japanese Alps",
+      "avg_snow_probability": 1.0,
+      "resorts_with_snow": 6,
+      "total_resorts": 6,
+      "best_resort": {
+        "name": "Nozawa Onsen",
+        "expected_snow_in": 13.6
+      },
+      "resorts": [
+        {
+          "name": "Niseko",
+          "country": "Japan",
+          "lat": 42.863,
+          "lon": 140.687,
+          "elevation_m": 343,
+          "snow_probability": 1.0,
+          "expected_snow_in": 12.7,
+          "snow_range_in": [
+            8.6,
+            17.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 1.0,
+              "in": 3.9
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.87,
+              "in": 2.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.71,
+              "in": 1.8
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.71,
+              "in": 1.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.52,
+              "in": 0.6
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.65,
+              "in": 1.3
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.48,
+              "in": 1.9
+            }
+          ]
+        },
+        {
+          "name": "Hakuba",
+          "country": "Japan",
+          "lat": 36.698,
+          "lon": 137.832,
+          "elevation_m": 703,
+          "snow_probability": 1.0,
+          "expected_snow_in": 12.9,
+          "snow_range_in": [
+            6.5,
+            20.8
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.97,
+              "in": 1.9
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.74,
+              "in": 1.7
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.94,
+              "in": 5.5
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.06,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.9,
+              "in": 3.7
+            }
+          ]
+        },
+        {
+          "name": "Nozawa Onsen",
+          "country": "Japan",
+          "lat": 36.922,
+          "lon": 138.44,
+          "elevation_m": 565,
+          "snow_probability": 1.0,
+          "expected_snow_in": 13.6,
+          "snow_range_in": [
+            6.5,
+            22.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.97,
+              "in": 4.2
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.61,
+              "in": 1.3
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.87,
+              "in": 3.7
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.42,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.94,
+              "in": 4.1
+            }
+          ]
+        },
+        {
+          "name": "Furano",
+          "country": "Japan",
+          "lat": 43.34,
+          "lon": 142.383,
+          "elevation_m": 245,
+          "snow_probability": 1.0,
+          "expected_snow_in": 7.0,
+          "snow_range_in": [
+            4.4,
+            10.2
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 1.0,
+              "in": 2.8
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.87,
+              "in": 2.3
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.48,
+              "in": 0.8
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.26,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.26,
+              "in": 0.3
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.35,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.23,
+              "in": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Rusutsu",
+          "country": "Japan",
+          "lat": 42.748,
+          "lon": 140.897,
+          "elevation_m": 400,
+          "snow_probability": 1.0,
+          "expected_snow_in": 8.6,
+          "snow_range_in": [
+            4.7,
+            12.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 1.0,
+              "in": 4.1
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.68,
+              "in": 1.3
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.58,
+              "in": 1.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.48,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.19,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.58,
+              "in": 0.9
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.32,
+              "in": 0.6
+            }
+          ]
+        },
+        {
+          "name": "Shiga Kogen",
+          "country": "Japan",
+          "lat": 36.685,
+          "lon": 138.523,
+          "elevation_m": 1340,
+          "snow_probability": 1.0,
+          "expected_snow_in": 10.5,
+          "snow_range_in": [
+            5.2,
+            16.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.39,
+              "in": 0.3
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.26,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.81,
+              "in": 2.4
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.1,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.13,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 1.0,
+              "in": 7.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dolomites",
+      "name": "Dolomites",
+      "avg_snow_probability": 1.0,
+      "resorts_with_snow": 1,
+      "total_resorts": 1,
+      "best_resort": {
+        "name": "Cortina d'Ampezzo",
+        "expected_snow_in": 5.6
+      },
+      "resorts": [
+        {
+          "name": "Cortina d'Ampezzo",
+          "country": "Italy",
+          "lat": 46.537,
+          "lon": 12.135,
+          "elevation_m": 1224,
+          "snow_probability": 1.0,
+          "expected_snow_in": 5.6,
+          "snow_range_in": [
+            2.4,
+            10.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.97,
+              "in": 3.8
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.32,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.23,
+              "in": 0.5
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.19,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.23,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.26,
+              "in": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pyrenees",
+      "name": "Pyrenees",
+      "avg_snow_probability": 0.98,
+      "resorts_with_snow": 4,
+      "total_resorts": 4,
+      "best_resort": {
+        "name": "Baqueira Beret",
+        "expected_snow_in": 15.8
+      },
+      "resorts": [
+        {
+          "name": "Baqueira Beret",
+          "country": "Spain",
+          "lat": 42.698,
+          "lon": 0.933,
+          "elevation_m": 1500,
+          "snow_probability": 1.0,
+          "expected_snow_in": 15.8,
+          "snow_range_in": [
+            10.1,
+            21.4
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 1.0,
+              "in": 3.1
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.35,
+              "in": 0.3
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.65,
+              "in": 1.3
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.74,
+              "in": 2.6
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.65,
+              "in": 1.5
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 1.0,
+              "in": 3.8
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.74,
+              "in": 3.2
+            }
+          ]
+        },
+        {
+          "name": "Grandvalira",
+          "country": "Andorra",
+          "lat": 42.551,
+          "lon": 1.745,
+          "elevation_m": 1710,
+          "snow_probability": 1.0,
+          "expected_snow_in": 11.4,
+          "snow_range_in": [
+            6.0,
+            16.8
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 1.0,
+              "in": 3.8
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.19,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.48,
+              "in": 0.9
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.71,
+              "in": 1.7
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.42,
+              "in": 0.8
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.84,
+              "in": 2.3
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.65,
+              "in": 1.8
+            }
+          ]
+        },
+        {
+          "name": "Font-Romeu",
+          "country": "France",
+          "lat": 42.504,
+          "lon": 2.041,
+          "elevation_m": 1800,
+          "snow_probability": 1.0,
+          "expected_snow_in": 9.8,
+          "snow_range_in": [
+            4.3,
+            15.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 1.0,
+              "in": 3.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.13,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.48,
+              "in": 0.8
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.68,
+              "in": 1.5
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.42,
+              "in": 0.6
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.84,
+              "in": 2.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.61,
+              "in": 1.8
+            }
+          ]
+        },
+        {
+          "name": "Cauterets",
+          "country": "France",
+          "lat": 42.893,
+          "lon": -0.117,
+          "elevation_m": 932,
+          "snow_probability": 0.94,
+          "expected_snow_in": 6.3,
+          "snow_range_in": [
+            0.7,
+            13.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.29,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.48,
+              "in": 0.7
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.65,
+              "in": 2.5
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.48,
+              "in": 0.6
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.13,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.58,
+              "in": 2.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alps",
+      "name": "European Alps",
+      "avg_snow_probability": 0.86,
+      "resorts_with_snow": 12,
+      "total_resorts": 14,
+      "best_resort": {
+        "name": "Meribel",
+        "expected_snow_in": 28.7
+      },
+      "resorts": [
+        {
+          "name": "Chamonix",
+          "country": "France",
+          "lat": 45.924,
+          "lon": 6.869,
+          "elevation_m": 1035,
+          "snow_probability": 1.0,
+          "expected_snow_in": 21.3,
+          "snow_range_in": [
+            8.1,
+            35.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.71,
+              "in": 0.7
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 1.0,
+              "in": 8.1
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.19,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.65,
+              "in": 2.8
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.87,
+              "in": 9.4
+            }
+          ]
+        },
+        {
+          "name": "Zermatt",
+          "country": "Switzerland",
+          "lat": 46.024,
+          "lon": 7.749,
+          "elevation_m": 1608,
+          "snow_probability": 1.0,
+          "expected_snow_in": 7.4,
+          "snow_range_in": [
+            2.4,
+            12.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.87,
+              "in": 1.1
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.94,
+              "in": 1.1
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.23,
+              "in": 0.5
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.32,
+              "in": 0.8
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.48,
+              "in": 1.8
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.74,
+              "in": 2.1
+            }
+          ]
+        },
+        {
+          "name": "St. Anton",
+          "country": "Austria",
+          "lat": 47.13,
+          "lon": 10.268,
+          "elevation_m": 1304,
+          "snow_probability": 1.0,
+          "expected_snow_in": 5.6,
+          "snow_range_in": [
+            1.2,
+            6.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.9,
+              "in": 2.1
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.32,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.13,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.74,
+              "in": 2.7
+            }
+          ]
+        },
+        {
+          "name": "Val d'Isere",
+          "country": "France",
+          "lat": 45.448,
+          "lon": 6.98,
+          "elevation_m": 1850,
+          "snow_probability": 1.0,
+          "expected_snow_in": 16.3,
+          "snow_range_in": [
+            5.3,
+            29.1
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.9,
+              "in": 1.4
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.97,
+              "in": 2.7
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.19,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.13,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.52,
+              "in": 3.7
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.84,
+              "in": 8.0
+            }
+          ]
+        },
+        {
+          "name": "Verbier",
+          "country": "Switzerland",
+          "lat": 46.096,
+          "lon": 7.228,
+          "elevation_m": 1500,
+          "snow_probability": 1.0,
+          "expected_snow_in": 15.3,
+          "snow_range_in": [
+            5.2,
+            22.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.32,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.94,
+              "in": 3.6
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.23,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.55,
+              "in": 3.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.9,
+              "in": 8.1
+            }
+          ]
+        },
+        {
+          "name": "Lech",
+          "country": "Austria",
+          "lat": 47.21,
+          "lon": 10.142,
+          "elevation_m": 1450,
+          "snow_probability": 1.0,
+          "expected_snow_in": 5.6,
+          "snow_range_in": [
+            1.2,
+            6.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.9,
+              "in": 2.1
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.32,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.13,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.74,
+              "in": 2.7
+            }
+          ]
+        },
+        {
+          "name": "Courchevel",
+          "country": "France",
+          "lat": 45.415,
+          "lon": 6.634,
+          "elevation_m": 1850,
+          "snow_probability": 1.0,
+          "expected_snow_in": 24.3,
+          "snow_range_in": [
+            10.5,
+            38.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.9,
+              "in": 1.3
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 1.0,
+              "in": 6.2
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.1,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.55,
+              "in": 4.8
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.94,
+              "in": 11.7
+            }
+          ]
+        },
+        {
+          "name": "Wengen",
+          "country": "Switzerland",
+          "lat": 46.608,
+          "lon": 7.922,
+          "elevation_m": 1274,
+          "snow_probability": 1.0,
+          "expected_snow_in": 6.9,
+          "snow_range_in": [
+            2.1,
+            9.8
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.06,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.68,
+              "in": 1.1
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.19,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.13,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.45,
+              "in": 1.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.9,
+              "in": 4.2
+            }
+          ]
+        },
+        {
+          "name": "Gstaad",
+          "country": "Switzerland",
+          "lat": 46.475,
+          "lon": 7.286,
+          "elevation_m": 1050,
+          "snow_probability": 1.0,
+          "expected_snow_in": 11.2,
+          "snow_range_in": [
+            4.9,
+            17.2
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.16,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 1.0,
+              "in": 3.3
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.19,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.52,
+              "in": 2.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.9,
+              "in": 5.4
+            }
+          ]
+        },
+        {
+          "name": "Meribel",
+          "country": "France",
+          "lat": 45.397,
+          "lon": 6.566,
+          "elevation_m": 1450,
+          "snow_probability": 1.0,
+          "expected_snow_in": 28.7,
+          "snow_range_in": [
+            12.4,
+            42.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.94,
+              "in": 1.6
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 1.0,
+              "in": 8.8
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.13,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.06,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.1,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.65,
+              "in": 5.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 1.0,
+              "in": 12.9
+            }
+          ]
+        },
+        {
+          "name": "Saalbach",
+          "country": "Austria",
+          "lat": 47.391,
+          "lon": 12.636,
+          "elevation_m": 1003,
+          "snow_probability": 0.97,
+          "expected_snow_in": 3.9,
+          "snow_range_in": [
+            0.6,
+            6.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.26,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.71,
+              "in": 1.5
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.77,
+              "in": 1.4
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.06,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.26,
+              "in": 0.7
+            }
+          ]
+        },
+        {
+          "name": "Ischgl",
+          "country": "Austria",
+          "lat": 47.015,
+          "lon": 10.294,
+          "elevation_m": 1377,
+          "snow_probability": 0.87,
+          "expected_snow_in": 2.8,
+          "snow_range_in": [
+            0.0,
+            4.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.48,
+              "in": 0.5
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.29,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.13,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.52,
+              "in": 1.7
+            }
+          ]
+        },
+        {
+          "name": "Kitzbuhel",
+          "country": "Austria",
+          "lat": 47.446,
+          "lon": 12.391,
+          "elevation_m": 762,
+          "snow_probability": 0.23,
+          "expected_snow_in": 0.3,
+          "snow_range_in": [
+            0.0,
+            0.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.1,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.06,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.03,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.06,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Innsbruck",
+          "country": "Austria",
+          "lat": 47.26,
+          "lon": 11.394,
+          "elevation_m": 574,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canadian_rockies",
+      "name": "Canadian Rockies",
+      "avg_snow_probability": 0.79,
+      "resorts_with_snow": 6,
+      "total_resorts": 6,
+      "best_resort": {
+        "name": "Revelstoke",
+        "expected_snow_in": 6.4
+      },
+      "resorts": [
+        {
+          "name": "Revelstoke",
+          "country": "Canada",
+          "lat": 51.033,
+          "lon": -118.167,
+          "elevation_m": 512,
+          "snow_probability": 1.0,
+          "expected_snow_in": 6.4,
+          "snow_range_in": [
+            2.6,
+            10.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.42,
+              "in": 0.6
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 1.0,
+              "in": 3.5
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.52,
+              "in": 1.9
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.23,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.13,
+              "in": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Kicking Horse",
+          "country": "Canada",
+          "lat": 51.297,
+          "lon": -117.048,
+          "elevation_m": 1190,
+          "snow_probability": 0.9,
+          "expected_snow_in": 3.1,
+          "snow_range_in": [
+            0.6,
+            6.1
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.19,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.81,
+              "in": 1.8
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.42,
+              "in": 1.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Fernie",
+          "country": "Canada",
+          "lat": 49.462,
+          "lon": -115.087,
+          "elevation_m": 1068,
+          "snow_probability": 0.9,
+          "expected_snow_in": 3.9,
+          "snow_range_in": [
+            0.6,
+            8.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.71,
+              "in": 1.3
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.65,
+              "in": 2.5
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.03,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Banff Sunshine",
+          "country": "Canada",
+          "lat": 51.115,
+          "lon": -115.763,
+          "elevation_m": 1660,
+          "snow_probability": 0.71,
+          "expected_snow_in": 2.5,
+          "snow_range_in": [
+            0.0,
+            6.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.45,
+              "in": 0.9
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.48,
+              "in": 1.7
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Lake Louise",
+          "country": "Canada",
+          "lat": 51.426,
+          "lon": -116.177,
+          "elevation_m": 1646,
+          "snow_probability": 0.68,
+          "expected_snow_in": 1.8,
+          "snow_range_in": [
+            0.0,
+            4.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.52,
+              "in": 0.7
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.42,
+              "in": 1.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Whistler Blackcomb",
+          "country": "Canada",
+          "lat": 50.115,
+          "lon": -122.957,
+          "elevation_m": 675,
+          "snow_probability": 0.58,
+          "expected_snow_in": 0.9,
+          "snow_range_in": [
+            0.0,
+            2.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.29,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.42,
+              "in": 0.5
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.1,
+              "in": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "us_rockies",
+      "name": "US Rockies",
+      "avg_snow_probability": 0.73,
+      "resorts_with_snow": 11,
+      "total_resorts": 11,
+      "best_resort": {
+        "name": "Jackson Hole",
+        "expected_snow_in": 6.4
+      },
+      "resorts": [
+        {
+          "name": "Jackson Hole",
+          "country": "United States",
+          "lat": 43.588,
+          "lon": -110.828,
+          "elevation_m": 1924,
+          "snow_probability": 1.0,
+          "expected_snow_in": 6.4,
+          "snow_range_in": [
+            1.5,
+            13.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.65,
+              "in": 1.8
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.87,
+              "in": 3.3
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.45,
+              "in": 1.3
+            }
+          ]
+        },
+        {
+          "name": "Big Sky",
+          "country": "United States",
+          "lat": 45.286,
+          "lon": -111.401,
+          "elevation_m": 2286,
+          "snow_probability": 0.9,
+          "expected_snow_in": 3.9,
+          "snow_range_in": [
+            0.7,
+            8.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.77,
+              "in": 1.4
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.71,
+              "in": 1.8
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.39,
+              "in": 0.6
+            }
+          ]
+        },
+        {
+          "name": "Park City",
+          "country": "United States",
+          "lat": 40.645,
+          "lon": -111.498,
+          "elevation_m": 2103,
+          "snow_probability": 0.84,
+          "expected_snow_in": 4.0,
+          "snow_range_in": [
+            0.0,
+            8.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.06,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.65,
+              "in": 2.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.61,
+              "in": 1.8
+            }
+          ]
+        },
+        {
+          "name": "Deer Valley",
+          "country": "United States",
+          "lat": 40.637,
+          "lon": -111.478,
+          "elevation_m": 2003,
+          "snow_probability": 0.84,
+          "expected_snow_in": 4.0,
+          "snow_range_in": [
+            0.0,
+            8.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.06,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.65,
+              "in": 2.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.61,
+              "in": 1.8
+            }
+          ]
+        },
+        {
+          "name": "Telluride",
+          "country": "United States",
+          "lat": 37.937,
+          "lon": -107.812,
+          "elevation_m": 2659,
+          "snow_probability": 0.77,
+          "expected_snow_in": 3.0,
+          "snow_range_in": [
+            0.0,
+            7.1
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.26,
+              "in": 0.3
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.74,
+              "in": 2.6
+            }
+          ]
+        },
+        {
+          "name": "Alta",
+          "country": "United States",
+          "lat": 40.588,
+          "lon": -111.637,
+          "elevation_m": 2600,
+          "snow_probability": 0.71,
+          "expected_snow_in": 3.6,
+          "snow_range_in": [
+            0.0,
+            8.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.55,
+              "in": 1.9
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.52,
+              "in": 1.7
+            }
+          ]
+        },
+        {
+          "name": "Snowbird",
+          "country": "United States",
+          "lat": 40.581,
+          "lon": -111.656,
+          "elevation_m": 2365,
+          "snow_probability": 0.71,
+          "expected_snow_in": 3.6,
+          "snow_range_in": [
+            0.0,
+            8.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.55,
+              "in": 1.9
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.52,
+              "in": 1.7
+            }
+          ]
+        },
+        {
+          "name": "Steamboat Springs",
+          "country": "United States",
+          "lat": 40.458,
+          "lon": -106.804,
+          "elevation_m": 2103,
+          "snow_probability": 0.68,
+          "expected_snow_in": 2.0,
+          "snow_range_in": [
+            0.0,
+            5.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.35,
+              "in": 0.9
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.52,
+              "in": 1.0
+            }
+          ]
+        },
+        {
+          "name": "Aspen",
+          "country": "United States",
+          "lat": 39.187,
+          "lon": -106.817,
+          "elevation_m": 2422,
+          "snow_probability": 0.65,
+          "expected_snow_in": 1.7,
+          "snow_range_in": [
+            0.0,
+            3.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.32,
+              "in": 0.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.58,
+              "in": 1.3
+            }
+          ]
+        },
+        {
+          "name": "Vail",
+          "country": "United States",
+          "lat": 39.64,
+          "lon": -106.374,
+          "elevation_m": 2476,
+          "snow_probability": 0.55,
+          "expected_snow_in": 1.3,
+          "snow_range_in": [
+            0.0,
+            3.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.29,
+              "in": 0.6
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.48,
+              "in": 0.7
+            }
+          ]
+        },
+        {
+          "name": "Breckenridge",
+          "country": "United States",
+          "lat": 39.481,
+          "lon": -106.046,
+          "elevation_m": 2926,
+          "snow_probability": 0.39,
+          "expected_snow_in": 1.1,
+          "snow_range_in": [
+            0.0,
+            3.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.23,
+              "in": 0.5
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.39,
+              "in": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sierra_nevada",
+      "name": "Sierra Nevada",
+      "avg_snow_probability": 0.65,
+      "resorts_with_snow": 5,
+      "total_resorts": 5,
+      "best_resort": {
+        "name": "Squaw Valley",
+        "expected_snow_in": 4.1
+      },
+      "resorts": [
+        {
+          "name": "Squaw Valley",
+          "country": "United States",
+          "lat": 39.197,
+          "lon": -120.235,
+          "elevation_m": 1890,
+          "snow_probability": 0.71,
+          "expected_snow_in": 4.1,
+          "snow_range_in": [
+            0.0,
+            12.2
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.35,
+              "in": 0.5
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.52,
+              "in": 3.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.19,
+              "in": 0.6
+            }
+          ]
+        },
+        {
+          "name": "Mammoth Mountain",
+          "country": "United States",
+          "lat": 37.631,
+          "lon": -119.032,
+          "elevation_m": 2424,
+          "snow_probability": 0.68,
+          "expected_snow_in": 2.3,
+          "snow_range_in": [
+            0.0,
+            4.8
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.19,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.19,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.52,
+              "in": 1.5
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.29,
+              "in": 0.6
+            }
+          ]
+        },
+        {
+          "name": "Kirkwood",
+          "country": "United States",
+          "lat": 38.685,
+          "lon": -120.065,
+          "elevation_m": 2377,
+          "snow_probability": 0.65,
+          "expected_snow_in": 3.9,
+          "snow_range_in": [
+            0.0,
+            11.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.19,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.55,
+              "in": 3.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.23,
+              "in": 0.7
+            }
+          ]
+        },
+        {
+          "name": "Northstar",
+          "country": "United States",
+          "lat": 39.274,
+          "lon": -120.121,
+          "elevation_m": 1929,
+          "snow_probability": 0.65,
+          "expected_snow_in": 3.0,
+          "snow_range_in": [
+            0.0,
+            8.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.26,
+              "in": 0.3
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.45,
+              "in": 2.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.19,
+              "in": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Heavenly",
+          "country": "United States",
+          "lat": 38.935,
+          "lon": -119.94,
+          "elevation_m": 1995,
+          "snow_probability": 0.58,
+          "expected_snow_in": 2.9,
+          "snow_range_in": [
+            0.0,
+            7.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.1,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.52,
+              "in": 2.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.23,
+              "in": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "northeast_usa",
+      "name": "Northeast USA",
+      "avg_snow_probability": 0.3,
+      "resorts_with_snow": 4,
+      "total_resorts": 7,
+      "best_resort": {
+        "name": "Whiteface",
+        "expected_snow_in": 0.7
+      },
+      "resorts": [
+        {
+          "name": "Jay Peak",
+          "country": "United States",
+          "lat": 44.938,
+          "lon": -72.506,
+          "elevation_m": 585,
+          "snow_probability": 0.48,
+          "expected_snow_in": 0.6,
+          "snow_range_in": [
+            0.0,
+            1.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.32,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.06,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.06,
+              "in": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Stowe",
+          "country": "United States",
+          "lat": 44.53,
+          "lon": -72.781,
+          "elevation_m": 390,
+          "snow_probability": 0.39,
+          "expected_snow_in": 0.6,
+          "snow_range_in": [
+            0.0,
+            1.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.23,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.06,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.1,
+              "in": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Sugarbush",
+          "country": "United States",
+          "lat": 44.136,
+          "lon": -72.901,
+          "elevation_m": 823,
+          "snow_probability": 0.39,
+          "expected_snow_in": 0.6,
+          "snow_range_in": [
+            0.0,
+            2.2
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.26,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.06,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.06,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.1,
+              "in": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Whiteface",
+          "country": "United States",
+          "lat": 44.366,
+          "lon": -73.903,
+          "elevation_m": 377,
+          "snow_probability": 0.32,
+          "expected_snow_in": 0.7,
+          "snow_range_in": [
+            0.0,
+            2.1
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.16,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.1,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.16,
+              "in": 0.4
+            }
+          ]
+        },
+        {
+          "name": "Killington",
+          "country": "United States",
+          "lat": 43.604,
+          "lon": -72.82,
+          "elevation_m": 1000,
+          "snow_probability": 0.23,
+          "expected_snow_in": 0.4,
+          "snow_range_in": [
+            0.0,
+            1.2
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.13,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.06,
+              "in": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Sunday River",
+          "country": "United States",
+          "lat": 44.473,
+          "lon": -70.856,
+          "elevation_m": 244,
+          "snow_probability": 0.13,
+          "expected_snow_in": 0.2,
+          "snow_range_in": [
+            0.0,
+            0.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.06,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.06,
+              "in": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Sugarloaf",
+          "country": "United States",
+          "lat": 45.031,
+          "lon": -70.313,
+          "elevation_m": 640,
+          "snow_probability": 0.13,
+          "expected_snow_in": 0.3,
+          "snow_range_in": [
+            0.0,
+            0.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.03,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.1,
+              "in": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "andes",
+      "name": "Andes",
+      "avg_snow_probability": 0.25,
+      "resorts_with_snow": 2,
+      "total_resorts": 5,
+      "best_resort": {
+        "name": "Cerro Catedral",
+        "expected_snow_in": 7.2
+      },
+      "resorts": [
+        {
+          "name": "Cerro Catedral",
+          "country": "Argentina",
+          "lat": -41.169,
+          "lon": -71.441,
+          "elevation_m": 1030,
+          "snow_probability": 0.9,
+          "expected_snow_in": 7.2,
+          "snow_range_in": [
+            0.7,
+            14.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.39,
+              "in": 2.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.81,
+              "in": 4.8
+            }
+          ]
+        },
+        {
+          "name": "Chapelco",
+          "country": "Argentina",
+          "lat": -40.127,
+          "lon": -71.231,
+          "elevation_m": 1250,
+          "snow_probability": 0.32,
+          "expected_snow_in": 0.8,
+          "snow_range_in": [
+            0.0,
+            3.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.03,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.32,
+              "in": 0.7
+            }
+          ]
+        },
+        {
+          "name": "Las Lenas",
+          "country": "Argentina",
+          "lat": -35.135,
+          "lon": -70.075,
+          "elevation_m": 2240,
+          "snow_probability": 0.03,
+          "expected_snow_in": 0.1,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.03,
+              "in": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Valle Nevado",
+          "country": "Chile",
+          "lat": -33.376,
+          "lon": -70.254,
+          "elevation_m": 2860,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Portillo",
+          "country": "Chile",
+          "lat": -32.838,
+          "lon": -70.131,
+          "elevation_m": 2590,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oceania",
+      "name": "Oceania",
+      "avg_snow_probability": 0.24,
+      "resorts_with_snow": 2,
+      "total_resorts": 7,
+      "best_resort": {
+        "name": "The Remarkables",
+        "expected_snow_in": 2.3
+      },
+      "resorts": [
+        {
+          "name": "The Remarkables",
+          "country": "New Zealand",
+          "lat": -45.051,
+          "lon": 168.818,
+          "elevation_m": 1586,
+          "snow_probability": 0.94,
+          "expected_snow_in": 2.3,
+          "snow_range_in": [
+            0.6,
+            4.8
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.16,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.77,
+              "in": 1.3
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.35,
+              "in": 0.6
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.19,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.06,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Cardrona",
+          "country": "New Zealand",
+          "lat": -44.869,
+          "lon": 168.941,
+          "elevation_m": 1670,
+          "snow_probability": 0.68,
+          "expected_snow_in": 1.6,
+          "snow_range_in": [
+            0.0,
+            3.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.23,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.42,
+              "in": 0.6
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.35,
+              "in": 0.6
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.19,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.06,
+              "in": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Treble Cone",
+          "country": "New Zealand",
+          "lat": -44.634,
+          "lon": 168.903,
+          "elevation_m": 1260,
+          "snow_probability": 0.03,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Thredbo",
+          "country": "Australia",
+          "lat": -36.5,
+          "lon": 148.307,
+          "elevation_m": 1365,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Perisher",
+          "country": "Australia",
+          "lat": -36.407,
+          "lon": 148.41,
+          "elevation_m": 1720,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Falls Creek",
+          "country": "Australia",
+          "lat": -36.863,
+          "lon": 147.275,
+          "elevation_m": 1500,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Coronet Peak",
+          "country": "New Zealand",
+          "lat": -45.03,
+          "lon": 168.723,
+          "elevation_m": 1649,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scandinavia",
+      "name": "Scandinavia",
+      "avg_snow_probability": 0.04,
+      "resorts_with_snow": 0,
+      "total_resorts": 6,
+      "best_resort": {
+        "name": "Are",
+        "expected_snow_in": 0.3
+      },
+      "resorts": [
+        {
+          "name": "Are",
+          "country": "Sweden",
+          "lat": 63.398,
+          "lon": 13.074,
+          "elevation_m": 380,
+          "snow_probability": 0.16,
+          "expected_snow_in": 0.3,
+          "snow_range_in": [
+            0.0,
+            0.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.16,
+              "in": 0.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Levi",
+          "country": "Finland",
+          "lat": 67.802,
+          "lon": 24.826,
+          "elevation_m": 205,
+          "snow_probability": 0.06,
+          "expected_snow_in": 0.2,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.03,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.03,
+              "in": 0.1
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Ruka",
+          "country": "Finland",
+          "lat": 66.165,
+          "lon": 29.151,
+          "elevation_m": 200,
+          "snow_probability": 0.03,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.03,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Trysil",
+          "country": "Norway",
+          "lat": 61.316,
+          "lon": 12.267,
+          "elevation_m": 415,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Hemsedal",
+          "country": "Norway",
+          "lat": 60.862,
+          "lon": 8.394,
+          "elevation_m": 659,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Geilo",
+          "country": "Norway",
+          "lat": 60.534,
+          "lon": 8.207,
+          "elevation_m": 800,
+          "snow_probability": 0.0,
+          "expected_snow_in": 0.0,
+          "snow_range_in": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.0,
+              "in": 0.0
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.0,
+              "in": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

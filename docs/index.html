@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snowcast - Ski Resort Snow Forecasts</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin="">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Snowcast</h1>
+            <p class="subtitle">7-Day Snow Forecasts for Ski Resorts Worldwide</p>
+            <p class="last-updated" id="last-updated"></p>
+        </div>
+    </header>
+
+    <main>
+        <section class="map-section">
+            <div id="map"></div>
+        </section>
+
+        <section class="regions-section">
+            <h2>Regions by Snow Outlook</h2>
+            <div id="region-cards" class="region-cards">
+                <div class="loading">Loading forecasts...</div>
+            </div>
+        </section>
+
+        <section class="resorts-section">
+            <h2>All Resorts</h2>
+            <div class="filters">
+                <input type="text" id="search-input" placeholder="Search resorts...">
+                <select id="region-filter">
+                    <option value="">All Regions</option>
+                </select>
+                <select id="snow-filter">
+                    <option value="">Any Snow Chance</option>
+                    <option value="0.7">High (&gt;70%)</option>
+                    <option value="0.4">Medium (&gt;40%)</option>
+                    <option value="0.1">Low (&gt;10%)</option>
+                </select>
+            </div>
+            <div class="table-container">
+                <table id="resorts-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="name">Resort</th>
+                            <th data-sort="country">Country</th>
+                            <th data-sort="region">Region</th>
+                            <th data-sort="probability">Snow Chance</th>
+                            <th data-sort="snow">Expected Snow</th>
+                            <th>7-Day Outlook</th>
+                        </tr>
+                    </thead>
+                    <tbody id="resorts-body">
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Data from <a href="https://open-meteo.com/" target="_blank">Open-Meteo</a></p>
+        <p>Updated daily at 6:00 UTC</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

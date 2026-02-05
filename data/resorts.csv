@@ -1,0 +1,77 @@
+name,country,state_province,lat,lon,elevation_m,region_id
+Chamonix,France,,45.924,6.869,1035,alps
+Zermatt,Switzerland,,46.024,7.749,1608,alps
+St. Anton,Austria,,47.130,10.268,1304,alps
+Val d'Isere,France,,45.448,6.980,1850,alps
+Verbier,Switzerland,,46.096,7.228,1500,alps
+Cortina d'Ampezzo,Italy,,46.537,12.135,1224,dolomites
+Kitzbuhel,Austria,,47.446,12.391,762,alps
+Lech,Austria,,47.210,10.142,1450,alps
+Courchevel,France,,45.415,6.634,1850,alps
+Wengen,Switzerland,,46.608,7.922,1274,alps
+Gstaad,Switzerland,,46.475,7.286,1050,alps
+Innsbruck,Austria,,47.260,11.394,574,alps
+Ischgl,Austria,,47.015,10.294,1377,alps
+Meribel,France,,45.397,6.566,1450,alps
+Saalbach,Austria,,47.391,12.636,1003,alps
+Vail,United States,Colorado,39.640,-106.374,2476,us_rockies
+Aspen,United States,Colorado,39.187,-106.817,2422,us_rockies
+Park City,United States,Utah,40.645,-111.498,2103,us_rockies
+Jackson Hole,United States,Wyoming,43.588,-110.828,1924,us_rockies
+Big Sky,United States,Montana,45.286,-111.401,2286,us_rockies
+Breckenridge,United States,Colorado,39.481,-106.046,2926,us_rockies
+Steamboat Springs,United States,Colorado,40.458,-106.804,2103,us_rockies
+Telluride,United States,Utah,37.937,-107.812,2659,us_rockies
+Alta,United States,Utah,40.588,-111.637,2600,us_rockies
+Snowbird,United States,Utah,40.581,-111.656,2365,us_rockies
+Deer Valley,United States,Utah,40.637,-111.478,2003,us_rockies
+Mammoth Mountain,United States,California,37.631,-119.032,2424,sierra_nevada
+Squaw Valley,United States,California,39.197,-120.235,1890,sierra_nevada
+Heavenly,United States,California,38.935,-119.940,1995,sierra_nevada
+Kirkwood,United States,California,38.685,-120.065,2377,sierra_nevada
+Northstar,United States,California,39.274,-120.121,1929,sierra_nevada
+Mt. Bachelor,United States,Oregon,43.988,-121.688,1920,cascades
+Crystal Mountain,United States,Washington,46.935,-121.474,1341,cascades
+Stevens Pass,United States,Washington,47.745,-121.089,1238,cascades
+Mt. Hood Meadows,United States,Oregon,45.331,-121.665,1524,cascades
+Whistler Blackcomb,Canada,British Columbia,50.115,-122.957,675,canadian_rockies
+Lake Louise,Canada,Alberta,51.426,-116.177,1646,canadian_rockies
+Banff Sunshine,Canada,Alberta,51.115,-115.763,1660,canadian_rockies
+Revelstoke,Canada,British Columbia,51.033,-118.167,512,canadian_rockies
+Kicking Horse,Canada,British Columbia,51.297,-117.048,1190,canadian_rockies
+Fernie,Canada,British Columbia,49.462,-115.087,1068,canadian_rockies
+Stowe,United States,Vermont,44.530,-72.781,390,northeast_usa
+Killington,United States,Vermont,43.604,-72.820,1000,northeast_usa
+Sugarbush,United States,Vermont,44.136,-72.901,823,northeast_usa
+Sunday River,United States,Maine,44.473,-70.856,244,northeast_usa
+Sugarloaf,United States,Maine,45.031,-70.313,640,northeast_usa
+Jay Peak,United States,Vermont,44.938,-72.506,585,northeast_usa
+Whiteface,United States,New York,44.366,-73.903,377,northeast_usa
+Baqueira Beret,Spain,,42.698,0.933,1500,pyrenees
+Grandvalira,Andorra,,42.551,1.745,1710,pyrenees
+Cauterets,France,,42.893,-0.117,932,pyrenees
+Font-Romeu,France,,42.504,2.041,1800,pyrenees
+Are,Sweden,,63.398,13.074,380,scandinavia
+Trysil,Norway,,61.316,12.267,415,scandinavia
+Hemsedal,Norway,,60.862,8.394,659,scandinavia
+Geilo,Norway,,60.534,8.207,800,scandinavia
+Levi,Finland,,67.802,24.826,205,scandinavia
+Ruka,Finland,,66.165,29.151,200,scandinavia
+Niseko,Japan,,42.863,140.687,343,japanese_alps
+Hakuba,Japan,,36.698,137.832,703,japanese_alps
+Nozawa Onsen,Japan,,36.922,138.440,565,japanese_alps
+Furano,Japan,,43.340,142.383,245,japanese_alps
+Rusutsu,Japan,,42.748,140.897,400,japanese_alps
+Shiga Kogen,Japan,,36.685,138.523,1340,japanese_alps
+Valle Nevado,Chile,,-33.376,-70.254,2860,andes
+Portillo,Chile,,-32.838,-70.131,2590,andes
+Las Lenas,Argentina,,-35.135,-70.075,2240,andes
+Cerro Catedral,Argentina,,-41.169,-71.441,1030,andes
+Chapelco,Argentina,,-40.127,-71.231,1250,andes
+Thredbo,Australia,New South Wales,-36.500,148.307,1365,oceania
+Perisher,Australia,New South Wales,-36.407,148.410,1720,oceania
+Falls Creek,Australia,Victoria,-36.863,147.275,1500,oceania
+Coronet Peak,New Zealand,,-45.030,168.723,1649,oceania
+The Remarkables,New Zealand,,-45.051,168.818,1586,oceania
+Cardrona,New Zealand,,-44.869,168.941,1670,oceania
+Treble Cone,New Zealand,,-44.634,168.903,1260,oceania
