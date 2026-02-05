@@ -108,6 +108,16 @@ function getSnowClass(probability) {
 }
 
 /**
+ * Get color class based on snow amount (inches)
+ */
+function getSnowAmountClass(inches) {
+    if (inches >= 6) return 'snow-high';
+    if (inches >= 3) return 'snow-medium';
+    if (inches >= 1) return 'snow-low';
+    return 'snow-none';
+}
+
+/**
  * Get hex color for map markers
  */
 function getMarkerColor(probability) {
@@ -261,22 +271,26 @@ function renderResortTable() {
 }
 
 /**
- * Render daily forecast bars
+ * Render daily forecast bars (scaled by snow amount, max 10")
  */
 function renderDailyBars(dailyForecast) {
     if (!dailyForecast || dailyForecast.length === 0) {
         return '<span style="color: #999">No data</span>';
     }
 
+    const maxInches = 10; // Scale: 10" = 100% height
+
     return dailyForecast.slice(0, 7).map(day => {
         const date = new Date(day.date + 'T12:00:00');
         const dayName = date.toLocaleDateString('en-US', { weekday: 'short' });
-        const tooltip = `${dayName}: ${Math.round(day.prob * 100)}% chance, ${dailyToInches(day)}"`;
-        const height = Math.max(day.prob * 100, 5);
+        const inches = dailyToInches(day);
+        const tooltip = `${dayName}: ${inches}" expected`;
+        // Scale height: 0" = 3%, 10"+ = 100%, with 10% minimum for any snow
+        const height = inches > 0 ? Math.max(Math.min((inches / maxInches) * 100, 100), 10) : 3;
 
         return `
             <div class="daily-bar" data-tooltip="${tooltip}">
-                <div class="fill ${getSnowClass(day.prob)}" style="height: ${height}%"></div>
+                <div class="fill ${getSnowAmountClass(inches)}" style="height: ${height}%"></div>
             </div>
         `;
     }).join('');
