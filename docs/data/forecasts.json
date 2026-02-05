@@ -1,220 +1,7 @@
 {
-  "generated_at": "2026-02-05T21:07:24.155077+00:00",
-  "forecast_init_time": "2026-02-05T21:07:24.155094+00:00",
+  "generated_at": "2026-02-05T21:32:21.991036+00:00",
+  "forecast_init_time": "2026-02-05T21:32:21.991061+00:00",
   "regions": [
-    {
-      "id": "cascades",
-      "name": "Cascades",
-      "avg_snow_probability": 1.0,
-      "resorts_with_snow": 4,
-      "total_resorts": 4,
-      "best_resort": {
-        "name": "Mt. Hood Meadows",
-        "expected_snow_cm": 40.2
-      },
-      "resorts": [
-        {
-          "name": "Mt. Bachelor",
-          "country": "United States",
-          "lat": 43.988,
-          "lon": -121.688,
-          "elevation_m": 1920,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 33.7,
-          "snow_range_cm": [
-            13.8,
-            57.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-02-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-02-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-02-07",
-              "prob": 0.18,
-              "cm": 0.3
-            },
-            {
-              "date": "2026-02-08",
-              "prob": 1.0,
-              "cm": 24.6
-            },
-            {
-              "date": "2026-02-09",
-              "prob": 0.96,
-              "cm": 7.9
-            },
-            {
-              "date": "2026-02-10",
-              "prob": 0.1,
-              "cm": 0.4
-            },
-            {
-              "date": "2026-02-11",
-              "prob": 0.08,
-              "cm": 0.5
-            }
-          ]
-        },
-        {
-          "name": "Crystal Mountain",
-          "country": "United States",
-          "lat": 46.935,
-          "lon": -121.474,
-          "elevation_m": 1341,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 38.7,
-          "snow_range_cm": [
-            18.3,
-            58.5
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-02-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-02-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-02-07",
-              "prob": 0.86,
-              "cm": 4.7
-            },
-            {
-              "date": "2026-02-08",
-              "prob": 1.0,
-              "cm": 26.5
-            },
-            {
-              "date": "2026-02-09",
-              "prob": 0.8,
-              "cm": 5.2
-            },
-            {
-              "date": "2026-02-10",
-              "prob": 0.29,
-              "cm": 1.5
-            },
-            {
-              "date": "2026-02-11",
-              "prob": 0.22,
-              "cm": 0.7
-            }
-          ]
-        },
-        {
-          "name": "Stevens Pass",
-          "country": "United States",
-          "lat": 47.745,
-          "lon": -121.089,
-          "elevation_m": 1238,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 31.4,
-          "snow_range_cm": [
-            14.7,
-            48.9
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-02-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-02-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-02-07",
-              "prob": 0.84,
-              "cm": 4.9
-            },
-            {
-              "date": "2026-02-08",
-              "prob": 1.0,
-              "cm": 20.0
-            },
-            {
-              "date": "2026-02-09",
-              "prob": 0.69,
-              "cm": 5.4
-            },
-            {
-              "date": "2026-02-10",
-              "prob": 0.29,
-              "cm": 0.8
-            },
-            {
-              "date": "2026-02-11",
-              "prob": 0.08,
-              "cm": 0.4
-            }
-          ]
-        },
-        {
-          "name": "Mt. Hood Meadows",
-          "country": "United States",
-          "lat": 45.331,
-          "lon": -121.665,
-          "elevation_m": 1524,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 40.2,
-          "snow_range_cm": [
-            22.2,
-            57.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-02-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-02-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-02-07",
-              "prob": 0.45,
-              "cm": 1.2
-            },
-            {
-              "date": "2026-02-08",
-              "prob": 1.0,
-              "cm": 30.6
-            },
-            {
-              "date": "2026-02-09",
-              "prob": 0.84,
-              "cm": 7.3
-            },
-            {
-              "date": "2026-02-10",
-              "prob": 0.22,
-              "cm": 0.7
-            },
-            {
-              "date": "2026-02-11",
-              "prob": 0.14,
-              "cm": 0.5
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "japanese_alps",
       "name": "Japanese Alps",
@@ -523,6 +310,319 @@
               "date": "2026-02-11",
               "prob": 0.84,
               "cm": 9.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cascades",
+      "name": "Cascades",
+      "avg_snow_probability": 0.99,
+      "resorts_with_snow": 6,
+      "total_resorts": 6,
+      "best_resort": {
+        "name": "Mt. Hood Meadows",
+        "expected_snow_cm": 40.2
+      },
+      "resorts": [
+        {
+          "name": "Mt. Bachelor",
+          "country": "United States",
+          "lat": 43.988,
+          "lon": -121.688,
+          "elevation_m": 1920,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 33.7,
+          "snow_range_cm": [
+            13.8,
+            57.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.18,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 1.0,
+              "cm": 24.6
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.96,
+              "cm": 7.9
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.1,
+              "cm": 0.4
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.08,
+              "cm": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Crystal Mountain",
+          "country": "United States",
+          "lat": 46.935,
+          "lon": -121.474,
+          "elevation_m": 1341,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 38.7,
+          "snow_range_cm": [
+            18.3,
+            58.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.86,
+              "cm": 4.7
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 1.0,
+              "cm": 26.5
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.8,
+              "cm": 5.2
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.29,
+              "cm": 1.5
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.22,
+              "cm": 0.7
+            }
+          ]
+        },
+        {
+          "name": "Stevens Pass",
+          "country": "United States",
+          "lat": 47.745,
+          "lon": -121.089,
+          "elevation_m": 1238,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 31.4,
+          "snow_range_cm": [
+            14.7,
+            48.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.84,
+              "cm": 4.9
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 1.0,
+              "cm": 20.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.69,
+              "cm": 5.4
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.29,
+              "cm": 0.8
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.08,
+              "cm": 0.4
+            }
+          ]
+        },
+        {
+          "name": "Mt. Hood Meadows",
+          "country": "United States",
+          "lat": 45.331,
+          "lon": -121.665,
+          "elevation_m": 1524,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 40.2,
+          "snow_range_cm": [
+            22.2,
+            57.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.45,
+              "cm": 1.2
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 1.0,
+              "cm": 30.6
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.84,
+              "cm": 7.3
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.22,
+              "cm": 0.7
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.14,
+              "cm": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Alyeska",
+          "country": "United States",
+          "lat": 60.954,
+          "lon": -149.098,
+          "elevation_m": 76,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 23.9,
+          "snow_range_cm": [
+            9.3,
+            40.2
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.18,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.75,
+              "cm": 4.9
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.94,
+              "cm": 18.3
+            }
+          ]
+        },
+        {
+          "name": "Eaglecrest",
+          "country": "United States",
+          "lat": 58.31,
+          "lon": -134.51,
+          "elevation_m": 369,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 16.8,
+          "snow_range_cm": [
+            5.2,
+            31.8
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-02-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-06",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-02-08",
+              "prob": 0.24,
+              "cm": 1.0
+            },
+            {
+              "date": "2026-02-09",
+              "prob": 0.59,
+              "cm": 2.3
+            },
+            {
+              "date": "2026-02-10",
+              "prob": 0.59,
+              "cm": 2.5
+            },
+            {
+              "date": "2026-02-11",
+              "prob": 0.88,
+              "cm": 11.0
             }
           ]
         }
@@ -1942,7 +2042,7 @@
           ]
         },
         {
-          "name": "Squaw Valley",
+          "name": "Palisqualpine",
           "country": "United States",
           "lat": 39.197,
           "lon": -120.235,
