@@ -111,7 +111,7 @@ function getSnowClass(probability) {
  * Get hex color for map markers
  */
 function getMarkerColor(probability) {
-    if (probability >= 0.7) return '#b78dff';
+    if (probability >= 0.7) return '#8158c7';
     if (probability >= 0.4) return '#a78bfa';
     if (probability >= 0.1) return '#c4b5fd';
     return '#E0E0E0';

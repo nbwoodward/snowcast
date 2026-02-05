@@ -1,4 +1,7 @@
 # Snowcast
+Hello this is a super vibe coded web app to help my friend JB figure out where to go skiing in this
+dismal Montana winter. It actually turned out quite cool and probably fairly useful.
+It's deployed at https://backland.io.
 
 A web app that shows which ski resort regions worldwide are most likely to get snow in the next week, using Open-Meteo's free weather API with ensemble forecasts.
 
