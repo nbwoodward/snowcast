@@ -22,9 +22,6 @@ MIN_PRECIP_MM = 0.5
 # Snow to liquid ratio (10:1 is typical, can vary 5:1 to 20:1)
 SNOW_RATIO = 10.0
 
-# Conversion factor: cm to inches
-CM_TO_INCHES = 0.393701
-
 # Temperature lapse rate (C per 1000m elevation gain)
 # Standard atmosphere: -6.5C/1000m
 LAPSE_RATE_C_PER_KM = -6.5
@@ -53,16 +50,15 @@ def adjust_temperature_for_elevation(
 
 def calculate_snow_from_precip(precip_mm: float) -> float:
     """
-    Convert precipitation (mm water equivalent) to snow (inches).
+    Convert precipitation (mm water equivalent) to snow (cm).
 
     Args:
         precip_mm: Precipitation in mm
 
     Returns:
-        Snow accumulation in inches
+        Snow accumulation in cm
     """
-    snow_cm = precip_mm * SNOW_RATIO / 10.0  # mm to cm
-    return snow_cm * CM_TO_INCHES  # cm to inches
+    return precip_mm * SNOW_RATIO / 10.0  # mm to cm
 
 
 def is_snow_event(temp_c: float, precip_mm: float) -> bool:
@@ -106,8 +102,8 @@ def calculate_resort_forecast(
             'lon': resort['lon'],
             'elevation_m': resort['elevation_m'],
             'snow_probability': 0,
-            'expected_snow_in': 0,
-            'snow_range_in': [0, 0],
+            'expected_snow_cm': 0,
+            'snow_range_cm': [0, 0],
             'daily_forecast': []
         }
 
@@ -170,7 +166,7 @@ def calculate_from_ensemble_forecast(
         daily_forecasts.append({
             'date': str(date),
             'prob': round(float(daily_prob), 2),
-            'in': round(float(daily_expected))
+            'cm': round(float(daily_expected), 1)
         })
 
     return {
@@ -180,8 +176,8 @@ def calculate_from_ensemble_forecast(
         'lon': float(resort['lon']),
         'elevation_m': int(resort['elevation_m']),
         'snow_probability': round(float(snow_probability), 2),
-        'expected_snow_in': round(float(expected_snow)),
-        'snow_range_in': [round(float(p10)), round(float(p90))],
+        'expected_snow_cm': round(float(expected_snow), 1),
+        'snow_range_cm': [round(float(p10), 1), round(float(p90), 1)],
         'daily_forecast': daily_forecasts
     }
 
@@ -241,7 +237,7 @@ def calculate_from_standard_forecast(
         daily_forecasts.append({
             'date': str(date),
             'prob': round(float(daily_prob), 2),
-            'in': round(float(daily_snow))
+            'cm': round(float(daily_snow), 1)
         })
 
     return {
@@ -251,8 +247,8 @@ def calculate_from_standard_forecast(
         'lon': float(resort['lon']),
         'elevation_m': int(resort['elevation_m']),
         'snow_probability': round(float(snow_probability), 2),
-        'expected_snow_in': round(float(total_snow)),
-        'snow_range_in': [round(float(total_snow * 0.5)), round(float(total_snow * 1.5))],
+        'expected_snow_cm': round(float(total_snow), 1),
+        'snow_range_cm': [round(float(total_snow * 0.5), 1), round(float(total_snow * 1.5), 1)],
         'daily_forecast': daily_forecasts
     }
 
@@ -287,7 +283,7 @@ def calculate_region_summary(
     resorts_with_snow = sum(1 for r in resort_forecasts if r['snow_probability'] > 0.3)
 
     # Find best resort by expected snow
-    best_resort = max(resort_forecasts, key=lambda r: r['expected_snow_in'])
+    best_resort = max(resort_forecasts, key=lambda r: r['expected_snow_cm'])
 
     return {
         'id': region['id'],
@@ -297,7 +293,7 @@ def calculate_region_summary(
         'total_resorts': len(resort_forecasts),
         'best_resort': {
             'name': best_resort['name'],
-            'expected_snow_in': best_resort['expected_snow_in']
-        } if best_resort['expected_snow_in'] > 0 else None,
+            'expected_snow_cm': best_resort['expected_snow_cm']
+        } if best_resort['expected_snow_cm'] > 0 else None,
         'resorts': sorted(resort_forecasts, key=lambda r: -r['snow_probability'])
     }

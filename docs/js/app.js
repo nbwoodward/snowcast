@@ -10,6 +10,30 @@ let markers = [];
 let sortColumn = 'probability';
 let sortDirection = 'desc';
 
+// Unit conversion
+const CM_TO_INCHES = 0.393701;
+
+function toInches(resort) {
+    // Handle both cm and in fields (in case data is already in inches)
+    if (resort.expected_snow_in != null) {
+        return Math.round(resort.expected_snow_in);
+    }
+    if (resort.expected_snow_cm != null) {
+        return Math.round(resort.expected_snow_cm * CM_TO_INCHES);
+    }
+    return 0;
+}
+
+function dailyToInches(day) {
+    if (day.in != null) {
+        return Math.round(day.in);
+    }
+    if (day.cm != null) {
+        return Math.round(day.cm * CM_TO_INCHES);
+    }
+    return 0;
+}
+
 // Initialize the application
 document.addEventListener('DOMContentLoaded', init);
 
@@ -116,7 +140,7 @@ function renderRegionCards() {
             </div>
             ${region.best_resort ? `
                 <div class="best-resort">
-                    Best: <strong>${region.best_resort.name}</strong> - ${region.best_resort.expected_snow_in ?? region.best_resort.expected_snow_cm ?? 0}" expected
+                    Best: <strong>${region.best_resort.name}</strong> - ${toInches(region.best_resort)}" expected
                 </div>
             ` : ''}
             <div class="prob-bar">
@@ -226,7 +250,7 @@ function renderResortTable() {
                     ${Math.round(resort.snow_probability * 100)}%
                 </span>
             </td>
-            <td>${resort.expected_snow_in ?? resort.expected_snow_cm ?? 0}"</td>
+            <td>${toInches(resort)}"</td>
             <td>
                 <div class="daily-outlook">
                     ${renderDailyBars(resort.daily_forecast)}
@@ -247,8 +271,7 @@ function renderDailyBars(dailyForecast) {
     return dailyForecast.slice(0, 7).map(day => {
         const date = new Date(day.date);
         const dayName = date.toLocaleDateString('en-US', { weekday: 'short' });
-        const snowAmount = day.in ?? day.cm ?? 0;
-        const tooltip = `${dayName}: ${Math.round(day.prob * 100)}% chance, ${snowAmount}"`;
+        const tooltip = `${dayName}: ${Math.round(day.prob * 100)}% chance, ${dailyToInches(day)}"`;
         const height = Math.max(day.prob * 100, 5);
 
         return `
@@ -286,7 +309,7 @@ function renderMapMarkers() {
                 <h4>${resort.name}</h4>
                 <div class="popup-stats">
                     <p><strong>${Math.round(resort.snow_probability * 100)}%</strong> snow chance</p>
-                    <p><strong>${resort.expected_snow_in ?? resort.expected_snow_cm ?? 0}"</strong> expected</p>
+                    <p><strong>${toInches(resort)}"</strong> expected</p>
                     <p>${resort.country} | ${resort.elevation_m}m elevation</p>
                 </div>
             </div>
