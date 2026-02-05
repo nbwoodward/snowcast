@@ -5,11 +5,11 @@
 }
 
 :root {
-    --primary-color: #1a73e8;
-    --primary-dark: #1557b0;
-    --snow-high: #2196F3;
-    --snow-medium: #64B5F6;
-    --snow-low: #90CAF9;
+    --primary-color: #8158c7;
+    --primary-dark: #5b21b6;
+    --snow-high: #b78dff;
+    --snow-medium: #a78bfa;
+    --snow-low: #c4b5fd;
     --snow-none: #E0E0E0;
     --text-color: #333;
     --text-light: #666;
@@ -26,7 +26,7 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #1a73e8 0%, #4285f4 100%);
+    background: linear-gradient(135deg, #8158c7 0%, #a78bfa 100%);
     color: white;
     padding: 2rem;
     text-align: center;
