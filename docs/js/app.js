@@ -269,7 +269,7 @@ function renderDailyBars(dailyForecast) {
     }
 
     return dailyForecast.slice(0, 7).map(day => {
-        const date = new Date(day.date);
+        const date = new Date(day.date + 'T12:00:00');
         const dayName = date.toLocaleDateString('en-US', { weekday: 'short' });
         const tooltip = `${dayName}: ${Math.round(day.prob * 100)}% chance, ${dailyToInches(day)}"`;
         const height = Math.max(day.prob * 100, 5);
