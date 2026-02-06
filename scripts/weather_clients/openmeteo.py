@@ -17,8 +17,11 @@ from .base import WeatherAdapter
 FORECAST_URL = "https://api.open-meteo.com/v1/forecast"
 ENSEMBLE_URL = "https://ensemble-api.open-meteo.com/v1/ensemble"
 
-# Rate limiting: Open-Meteo allows 10,000 requests/day on free tier
-REQUEST_DELAY = 0.1  # seconds between requests
+# Rate limiting and retry settings
+REQUEST_DELAY = 0.5  # seconds between requests
+MAX_RETRIES = 3
+RETRY_BACKOFF = 2.0  # exponential backoff multiplier
+REQUEST_TIMEOUT = 60  # seconds
 
 
 class OpenMeteoAdapter(WeatherAdapter):
@@ -32,6 +35,37 @@ class OpenMeteoAdapter(WeatherAdapter):
             use_ensemble: Whether to use ensemble API (more requests but probabilistic)
         """
         self.use_ensemble = use_ensemble
+
+    def _request_with_retry(self, url: str, params: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        Make a request with retry logic and exponential backoff.
+
+        Args:
+            url: API endpoint URL
+            params: Query parameters
+
+        Returns:
+            JSON response as dictionary
+
+        Raises:
+            Exception: If all retries fail
+        """
+        last_error = None
+        for attempt in range(MAX_RETRIES):
+            try:
+                response = requests.get(url, params=params, timeout=REQUEST_TIMEOUT)
+                response.raise_for_status()
+                return response.json()
+            except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+                last_error = e
+                if attempt < MAX_RETRIES - 1:
+                    wait_time = REQUEST_DELAY * (RETRY_BACKOFF ** attempt)
+                    time.sleep(wait_time)
+                continue
+            except Exception as e:
+                # Non-retryable error
+                raise e
+        raise last_error
 
     def fetch_forecasts(self, resorts: pd.DataFrame) -> pd.DataFrame:
         """
@@ -92,9 +126,7 @@ class OpenMeteoAdapter(WeatherAdapter):
             "models": "ecmwf_ifs025",  # ECMWF IFS ensemble with 51 members
         }
 
-        response = requests.get(ENSEMBLE_URL, params=params, timeout=30)
-        response.raise_for_status()
-        return response.json()
+        return self._request_with_retry(ENSEMBLE_URL, params)
 
     def _fetch_standard_forecast(self, lat: float, lon: float) -> Dict[str, Any]:
         """
@@ -115,9 +147,7 @@ class OpenMeteoAdapter(WeatherAdapter):
             "forecast_days": 7,
         }
 
-        response = requests.get(FORECAST_URL, params=params, timeout=30)
-        response.raise_for_status()
-        return response.json()
+        return self._request_with_retry(FORECAST_URL, params)
 
     def _parse_ensemble_response(self, data: Dict[str, Any], resort: pd.Series) -> pd.DataFrame:
         """
