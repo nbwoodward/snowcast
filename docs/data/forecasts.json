@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T13:41:06.356769+00:00",
-  "forecast_init_time": "2026-04-10T13:41:06.356780+00:00",
+  "generated_at": "2026-04-11T14:15:03.824475+00:00",
+  "forecast_init_time": "2026-04-11T14:15:03.824487+00:00",
   "regions": [
     {
       "id": "sierra_nevada",
@@ -10,7 +10,7 @@
       "total_resorts": 5,
       "best_resort": {
         "name": "Kirkwood",
-        "expected_snow_cm": 56.9
+        "expected_snow_cm": 60.0
       },
       "resorts": [
         {
@@ -20,36 +20,31 @@
           "lon": -119.032,
           "elevation_m": 2424,
           "snow_probability": 1.0,
-          "expected_snow_cm": 42.9,
+          "expected_snow_cm": 44.6,
           "snow_range_cm": [
-            32.0,
-            53.7
+            33.3,
+            56.4
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.86,
-              "cm": 3.4
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.92,
-              "cm": 3.9
+              "prob": 0.94,
+              "cm": 4.3
             },
             {
               "date": "2026-04-12",
               "prob": 1.0,
-              "cm": 28.9
+              "cm": 34.0
             },
             {
               "date": "2026-04-13",
-              "prob": 0.92,
-              "cm": 6.3
+              "prob": 0.94,
+              "cm": 5.1
             },
             {
               "date": "2026-04-14",
-              "prob": 0.22,
-              "cm": 0.2
+              "prob": 0.41,
+              "cm": 0.3
             },
             {
               "date": "2026-04-15",
@@ -58,8 +53,13 @@
             },
             {
               "date": "2026-04-16",
-              "prob": 0.04,
-              "cm": 0.3
+              "prob": 0.22,
+              "cm": 0.8
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.1,
+              "cm": 0.1
             }
           ]
         },
@@ -70,46 +70,46 @@
           "lon": -120.235,
           "elevation_m": 1890,
           "snow_probability": 1.0,
-          "expected_snow_cm": 52.9,
+          "expected_snow_cm": 58.6,
           "snow_range_cm": [
-            35.1,
-            70.2
+            46.8,
+            70.1
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 1.0,
-              "cm": 5.9
-            },
-            {
               "date": "2026-04-11",
               "prob": 1.0,
-              "cm": 8.2
+              "cm": 10.5
             },
             {
               "date": "2026-04-12",
               "prob": 1.0,
-              "cm": 32.7
+              "cm": 41.4
             },
             {
               "date": "2026-04-13",
-              "prob": 0.8,
+              "prob": 0.94,
               "cm": 3.6
             },
             {
               "date": "2026-04-14",
-              "prob": 0.08,
-              "cm": 0.1
+              "prob": 0.06,
+              "cm": 0.0
             },
             {
               "date": "2026-04-15",
-              "prob": 0.08,
-              "cm": 0.3
+              "prob": 0.04,
+              "cm": 0.1
             },
             {
               "date": "2026-04-16",
-              "prob": 0.27,
-              "cm": 2.1
+              "prob": 0.41,
+              "cm": 2.9
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.1
             }
           ]
         },
@@ -120,46 +120,46 @@
           "lon": -119.94,
           "elevation_m": 1995,
           "snow_probability": 1.0,
-          "expected_snow_cm": 23.6,
+          "expected_snow_cm": 26.7,
           "snow_range_cm": [
-            15.3,
-            31.5
+            18.6,
+            33.4
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.24,
-              "cm": 0.5
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.14,
-              "cm": 0.3
+              "prob": 0.67,
+              "cm": 1.9
             },
             {
               "date": "2026-04-12",
               "prob": 1.0,
-              "cm": 20.0
+              "cm": 22.7
             },
             {
               "date": "2026-04-13",
-              "prob": 0.59,
-              "cm": 2.5
+              "prob": 0.55,
+              "cm": 1.4
             },
             {
               "date": "2026-04-14",
-              "prob": 0.02,
+              "prob": 0.0,
               "cm": 0.0
             },
             {
               "date": "2026-04-15",
-              "prob": 0.02,
-              "cm": 0.1
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-16",
+              "prob": 0.16,
+              "cm": 0.7
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.06,
-              "cm": 0.2
+              "cm": 0.1
             }
           ]
         },
@@ -170,46 +170,46 @@
           "lon": -120.065,
           "elevation_m": 2377,
           "snow_probability": 1.0,
-          "expected_snow_cm": 56.9,
+          "expected_snow_cm": 60.0,
           "snow_range_cm": [
-            41.7,
-            75.0
+            43.2,
+            77.0
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.98,
-              "cm": 3.9
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.9,
-              "cm": 5.3
+              "prob": 1.0,
+              "cm": 8.3
             },
             {
               "date": "2026-04-12",
               "prob": 1.0,
-              "cm": 39.8
+              "cm": 44.1
             },
             {
               "date": "2026-04-13",
               "prob": 0.94,
-              "cm": 6.4
+              "cm": 5.4
             },
             {
               "date": "2026-04-14",
-              "prob": 0.2,
-              "cm": 0.1
+              "prob": 0.08,
+              "cm": 0.0
             },
             {
               "date": "2026-04-15",
-              "prob": 0.04,
-              "cm": 0.1
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-16",
-              "prob": 0.16,
-              "cm": 1.2
+              "prob": 0.29,
+              "cm": 2.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.02,
+              "cm": 0.1
             }
           ]
         },
@@ -220,46 +220,46 @@
           "lon": -120.121,
           "elevation_m": 1929,
           "snow_probability": 1.0,
-          "expected_snow_cm": 31.2,
+          "expected_snow_cm": 41.0,
           "snow_range_cm": [
-            19.8,
-            39.9
+            30.6,
+            50.5
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.8,
-              "cm": 2.6
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.86,
-              "cm": 4.0
+              "prob": 1.0,
+              "cm": 7.5
             },
             {
               "date": "2026-04-12",
               "prob": 1.0,
-              "cm": 20.3
+              "cm": 28.2
             },
             {
               "date": "2026-04-13",
-              "prob": 0.75,
-              "cm": 3.1
+              "prob": 0.92,
+              "cm": 3.6
             },
             {
               "date": "2026-04-14",
-              "prob": 0.1,
+              "prob": 0.06,
               "cm": 0.1
             },
             {
               "date": "2026-04-15",
-              "prob": 0.04,
-              "cm": 0.2
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-16",
-              "prob": 0.2,
-              "cm": 1.0
+              "prob": 0.35,
+              "cm": 1.6
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.1
             }
           ]
         }
@@ -273,7 +273,7 @@
       "total_resorts": 4,
       "best_resort": {
         "name": "Baqueira Beret",
-        "expected_snow_cm": 25.5
+        "expected_snow_cm": 27.3
       },
       "resorts": [
         {
@@ -283,45 +283,45 @@
           "lon": 0.933,
           "elevation_m": 1500,
           "snow_probability": 1.0,
-          "expected_snow_cm": 25.5,
+          "expected_snow_cm": 27.3,
           "snow_range_cm": [
-            12.9,
-            37.5
+            21.6,
+            35.8
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.59,
-              "cm": 1.6
+              "prob": 0.8,
+              "cm": 2.8
             },
             {
               "date": "2026-04-12",
               "prob": 1.0,
-              "cm": 12.5
+              "cm": 13.4
             },
             {
               "date": "2026-04-13",
-              "prob": 0.96,
-              "cm": 8.6
+              "prob": 1.0,
+              "cm": 9.9
             },
             {
               "date": "2026-04-14",
-              "prob": 0.43,
-              "cm": 2.0
+              "prob": 0.41,
+              "cm": 0.9
             },
             {
               "date": "2026-04-15",
-              "prob": 0.08,
-              "cm": 0.8
+              "prob": 0.12,
+              "cm": 0.4
             },
             {
               "date": "2026-04-16",
               "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
               "cm": 0.0
             }
           ]
@@ -333,44 +333,44 @@
           "lon": 1.745,
           "elevation_m": 1710,
           "snow_probability": 1.0,
-          "expected_snow_cm": 14.3,
+          "expected_snow_cm": 14.4,
           "snow_range_cm": [
-            8.1,
-            21.0
+            7.8,
+            19.8
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.04,
-              "cm": 0.1
+              "prob": 0.45,
+              "cm": 0.9
             },
             {
               "date": "2026-04-12",
               "prob": 1.0,
-              "cm": 10.2
+              "cm": 10.3
             },
             {
               "date": "2026-04-13",
-              "prob": 0.96,
-              "cm": 3.8
+              "prob": 0.84,
+              "cm": 3.0
             },
             {
               "date": "2026-04-14",
-              "prob": 0.06,
-              "cm": 0.2
+              "prob": 0.02,
+              "cm": 0.1
             },
             {
               "date": "2026-04-15",
-              "prob": 0.02,
-              "cm": 0.0
+              "prob": 0.06,
+              "cm": 0.1
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -383,44 +383,44 @@
           "lon": -0.117,
           "elevation_m": 932,
           "snow_probability": 1.0,
-          "expected_snow_cm": 20.2,
+          "expected_snow_cm": 20.4,
           "snow_range_cm": [
-            11.1,
-            31.9
+            13.9,
+            28.1
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.49,
-              "cm": 1.1
+              "prob": 0.84,
+              "cm": 1.6
             },
             {
               "date": "2026-04-12",
               "prob": 1.0,
-              "cm": 13.7
+              "cm": 14.1
             },
             {
               "date": "2026-04-13",
-              "prob": 0.8,
-              "cm": 4.5
+              "prob": 0.82,
+              "cm": 4.3
             },
             {
               "date": "2026-04-14",
-              "prob": 0.41,
-              "cm": 0.8
+              "prob": 0.29,
+              "cm": 0.4
             },
             {
               "date": "2026-04-15",
-              "prob": 0.02,
+              "prob": 0.0,
               "cm": 0.0
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -433,359 +433,46 @@
           "lon": 2.041,
           "elevation_m": 1800,
           "snow_probability": 1.0,
-          "expected_snow_cm": 11.7,
-          "snow_range_cm": [
-            4.8,
-            19.5
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.98,
-              "cm": 8.2
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.88,
-              "cm": 3.2
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.06,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "canadian_rockies",
-      "name": "Canadian Rockies",
-      "avg_snow_probability": 0.97,
-      "resorts_with_snow": 6,
-      "total_resorts": 6,
-      "best_resort": {
-        "name": "Revelstoke",
-        "expected_snow_cm": 15.3
-      },
-      "resorts": [
-        {
-          "name": "Whistler Blackcomb",
-          "country": "Canada",
-          "lat": 50.115,
-          "lon": -122.957,
-          "elevation_m": 675,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 10.9,
-          "snow_range_cm": [
-            4.5,
-            15.7
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.78,
-              "cm": 5.5
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.96,
-              "cm": 5.3
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.02,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Revelstoke",
-          "country": "Canada",
-          "lat": 51.033,
-          "lon": -118.167,
-          "elevation_m": 512,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 15.3,
-          "snow_range_cm": [
-            6.9,
-            23.7
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.49,
-              "cm": 1.6
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.33,
-              "cm": 1.2
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.75,
-              "cm": 2.7
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.96,
-              "cm": 8.8
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.14,
-              "cm": 0.9
-            }
-          ]
-        },
-        {
-          "name": "Fernie",
-          "country": "Canada",
-          "lat": 49.462,
-          "lon": -115.087,
-          "elevation_m": 1068,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 10.6,
+          "expected_snow_cm": 11.1,
           "snow_range_cm": [
             6.0,
-            16.7
+            17.1
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.53,
-              "cm": 2.1
-            },
-            {
-              "date": "2026-04-13",
               "prob": 0.08,
               "cm": 0.1
             },
             {
-              "date": "2026-04-14",
-              "prob": 0.12,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.98,
-              "cm": 6.1
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.51,
-              "cm": 2.1
-            }
-          ]
-        },
-        {
-          "name": "Banff Sunshine",
-          "country": "Canada",
-          "lat": 51.115,
-          "lon": -115.763,
-          "elevation_m": 1660,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 10.4,
-          "snow_range_cm": [
-            1.5,
-            18.9
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-12",
-              "prob": 0.61,
-              "cm": 2.4
+              "prob": 1.0,
+              "cm": 8.7
             },
             {
               "date": "2026-04-13",
-              "prob": 0.18,
-              "cm": 0.2
+              "prob": 0.71,
+              "cm": 2.2
             },
             {
               "date": "2026-04-14",
-              "prob": 0.18,
-              "cm": 0.4
+              "prob": 0.02,
+              "cm": 0.1
             },
             {
               "date": "2026-04-15",
-              "prob": 0.86,
-              "cm": 6.2
+              "prob": 0.04,
+              "cm": 0.0
             },
             {
               "date": "2026-04-16",
-              "prob": 0.27,
-              "cm": 1.4
-            }
-          ]
-        },
-        {
-          "name": "Kicking Horse",
-          "country": "Canada",
-          "lat": 51.297,
-          "lon": -117.048,
-          "elevation_m": 1190,
-          "snow_probability": 0.94,
-          "expected_snow_cm": 7.4,
-          "snow_range_cm": [
-            1.5,
-            13.2
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
               "prob": 0.0,
               "cm": 0.0
             },
             {
-              "date": "2026-04-11",
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.24,
-              "cm": 0.7
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.24,
-              "cm": 0.4
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.14,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.86,
-              "cm": 5.2
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.18,
-              "cm": 0.8
-            }
-          ]
-        },
-        {
-          "name": "Lake Louise",
-          "country": "Canada",
-          "lat": 51.426,
-          "lon": -116.177,
-          "elevation_m": 1646,
-          "snow_probability": 0.9,
-          "expected_snow_cm": 7.1,
-          "snow_range_cm": [
-            1.5,
-            13.8
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.43,
-              "cm": 1.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.39,
-              "cm": 0.6
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.18,
-              "cm": 0.3
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.82,
-              "cm": 4.3
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.25,
-              "cm": 0.9
             }
           ]
         }
@@ -794,61 +481,61 @@
     {
       "id": "us_rockies",
       "name": "US Rockies",
-      "avg_snow_probability": 0.92,
+      "avg_snow_probability": 0.96,
       "resorts_with_snow": 14,
       "total_resorts": 14,
       "best_resort": {
         "name": "Park City",
-        "expected_snow_cm": 13.1
+        "expected_snow_cm": 19.8
       },
       "resorts": [
         {
-          "name": "Steamboat Springs",
+          "name": "Park City",
           "country": "United States",
-          "lat": 40.458,
-          "lon": -106.804,
+          "lat": 40.645,
+          "lon": -111.498,
           "elevation_m": 2103,
           "snow_probability": 1.0,
-          "expected_snow_cm": 8.8,
+          "expected_snow_cm": 19.8,
           "snow_range_cm": [
-            2.6,
-            15.7
+            9.9,
+            31.5
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.63,
-              "cm": 1.0
+              "prob": 0.25,
+              "cm": 0.3
             },
             {
               "date": "2026-04-12",
-              "prob": 0.73,
-              "cm": 0.8
+              "prob": 0.08,
+              "cm": 0.0
             },
             {
               "date": "2026-04-13",
-              "prob": 0.12,
-              "cm": 0.2
+              "prob": 1.0,
+              "cm": 7.9
             },
             {
               "date": "2026-04-14",
-              "prob": 0.82,
-              "cm": 4.3
+              "prob": 0.59,
+              "cm": 2.9
             },
             {
               "date": "2026-04-15",
-              "prob": 0.35,
-              "cm": 1.7
+              "prob": 0.02,
+              "cm": 0.0
             },
             {
               "date": "2026-04-16",
-              "prob": 0.16,
-              "cm": 0.8
+              "prob": 0.69,
+              "cm": 4.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.71,
+              "cm": 4.3
             }
           ]
         },
@@ -858,47 +545,347 @@
           "lat": 43.588,
           "lon": -110.828,
           "elevation_m": 1924,
-          "snow_probability": 0.98,
-          "expected_snow_cm": 9.4,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 13.9,
           "snow_range_cm": [
-            2.1,
-            16.2
+            7.2,
+            20.4
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.16,
-              "cm": 0.2
+              "prob": 0.29,
+              "cm": 0.3
             },
             {
               "date": "2026-04-12",
-              "prob": 0.29,
+              "prob": 0.33,
               "cm": 0.4
             },
             {
               "date": "2026-04-13",
-              "prob": 0.43,
-              "cm": 1.1
+              "prob": 0.57,
+              "cm": 1.9
             },
             {
               "date": "2026-04-14",
-              "prob": 0.29,
-              "cm": 0.6
+              "prob": 0.04,
+              "cm": 0.1
             },
             {
               "date": "2026-04-15",
-              "prob": 0.35,
+              "prob": 0.41,
+              "cm": 1.8
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 1.0,
+              "cm": 8.6
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.2,
+              "cm": 0.8
+            }
+          ]
+        },
+        {
+          "name": "Steamboat Springs",
+          "country": "United States",
+          "lat": 40.458,
+          "lon": -106.804,
+          "elevation_m": 2103,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 16.7,
+          "snow_range_cm": [
+            8.4,
+            25.1
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.84,
+              "cm": 1.7
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.14,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.29,
+              "cm": 0.5
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 1.0,
+              "cm": 7.6
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.37,
               "cm": 1.5
             },
             {
               "date": "2026-04-16",
-              "prob": 0.8,
-              "cm": 5.6
+              "prob": 0.18,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.73,
+              "cm": 4.8
+            }
+          ]
+        },
+        {
+          "name": "Telluride",
+          "country": "United States",
+          "lat": 37.937,
+          "lon": -107.812,
+          "elevation_m": 2659,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 8.8,
+          "snow_range_cm": [
+            3.0,
+            15.1
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.47,
+              "cm": 1.1
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.08,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.08,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.88,
+              "cm": 4.7
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.37,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.45,
+              "cm": 2.3
+            }
+          ]
+        },
+        {
+          "name": "Alta",
+          "country": "United States",
+          "lat": 40.588,
+          "lon": -111.637,
+          "elevation_m": 2600,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 19.8,
+          "snow_range_cm": [
+            8.1,
+            33.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.65,
+              "cm": 1.6
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.2,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.86,
+              "cm": 3.7
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.51,
+              "cm": 3.9
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.04,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.82,
+              "cm": 6.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.69,
+              "cm": 4.1
+            }
+          ]
+        },
+        {
+          "name": "Snowbird",
+          "country": "United States",
+          "lat": 40.581,
+          "lon": -111.656,
+          "elevation_m": 2365,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 19.8,
+          "snow_range_cm": [
+            8.1,
+            33.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.65,
+              "cm": 1.6
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.2,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.86,
+              "cm": 3.7
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.51,
+              "cm": 3.9
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.04,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.82,
+              "cm": 6.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.69,
+              "cm": 4.1
+            }
+          ]
+        },
+        {
+          "name": "Deer Valley",
+          "country": "United States",
+          "lat": 40.637,
+          "lon": -111.478,
+          "elevation_m": 2003,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 19.7,
+          "snow_range_cm": [
+            9.9,
+            30.9
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.25,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.08,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 1.0,
+              "cm": 7.9
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.59,
+              "cm": 2.9
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.69,
+              "cm": 4.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.71,
+              "cm": 4.3
+            }
+          ]
+        },
+        {
+          "name": "Aspen",
+          "country": "United States",
+          "lat": 39.187,
+          "lon": -106.817,
+          "elevation_m": 2422,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 15.0,
+          "snow_range_cm": [
+            4.8,
+            24.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.61,
+              "cm": 1.7
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.25,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.88,
+              "cm": 8.5
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.59,
+              "cm": 1.4
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.51,
+              "cm": 3.3
             }
           ]
         },
@@ -909,446 +896,46 @@
           "lon": -111.401,
           "elevation_m": 2286,
           "snow_probability": 0.98,
-          "expected_snow_cm": 12.1,
+          "expected_snow_cm": 14.9,
           "snow_range_cm": [
-            1.8,
-            21.6
+            6.0,
+            25.8
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.39,
-              "cm": 0.8
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.43,
-              "cm": 1.8
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.59,
-              "cm": 2.3
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.57,
-              "cm": 1.6
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.73,
-              "cm": 5.5
-            }
-          ]
-        },
-        {
-          "name": "Whitefish",
-          "country": "United States",
-          "lat": 48.484,
-          "lon": -114.355,
-          "elevation_m": 1342,
-          "snow_probability": 0.98,
-          "expected_snow_cm": 12.5,
-          "snow_range_cm": [
-            2.1,
-            26.9
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.14,
+              "prob": 0.16,
               "cm": 0.3
             },
             {
               "date": "2026-04-12",
-              "prob": 0.45,
-              "cm": 1.4
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.47,
-              "cm": 3.1
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.25,
-              "cm": 0.3
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.92,
-              "cm": 4.8
-            },
-            {
-              "date": "2026-04-16",
               "prob": 0.41,
-              "cm": 2.5
-            }
-          ]
-        },
-        {
-          "name": "Telluride",
-          "country": "United States",
-          "lat": 37.937,
-          "lon": -107.812,
-          "elevation_m": 2659,
-          "snow_probability": 0.98,
-          "expected_snow_cm": 8.9,
-          "snow_range_cm": [
-            3.3,
-            15.9
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.59,
-              "cm": 1.4
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.24,
-              "cm": 0.2
+              "cm": 1.3
             },
             {
               "date": "2026-04-13",
-              "prob": 0.22,
-              "cm": 0.4
+              "prob": 0.59,
+              "cm": 2.5
             },
             {
               "date": "2026-04-14",
-              "prob": 0.92,
-              "cm": 4.6
+              "prob": 0.33,
+              "cm": 1.3
             },
             {
               "date": "2026-04-15",
               "prob": 0.51,
-              "cm": 1.9
+              "cm": 1.2
             },
             {
               "date": "2026-04-16",
-              "prob": 0.14,
-              "cm": 0.4
-            }
-          ]
-        },
-        {
-          "name": "Alta",
-          "country": "United States",
-          "lat": 40.588,
-          "lon": -111.637,
-          "elevation_m": 2600,
-          "snow_probability": 0.98,
-          "expected_snow_cm": 12.7,
-          "snow_range_cm": [
-            3.9,
-            24.9
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.86,
+              "cm": 6.6
             },
             {
-              "date": "2026-04-11",
-              "prob": 0.14,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.1,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.78,
-              "cm": 3.3
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.63,
-              "cm": 4.6
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.06,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.59,
-              "cm": 4.2
-            }
-          ]
-        },
-        {
-          "name": "Snowbird",
-          "country": "United States",
-          "lat": 40.581,
-          "lon": -111.656,
-          "elevation_m": 2365,
-          "snow_probability": 0.98,
-          "expected_snow_cm": 12.7,
-          "snow_range_cm": [
-            3.9,
-            24.9
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.14,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.1,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.78,
-              "cm": 3.3
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.63,
-              "cm": 4.6
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.06,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.59,
-              "cm": 4.2
-            }
-          ]
-        },
-        {
-          "name": "Park City",
-          "country": "United States",
-          "lat": 40.645,
-          "lon": -111.498,
-          "elevation_m": 2103,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 13.1,
-          "snow_range_cm": [
-            3.9,
-            23.7
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.2,
-              "cm": 0.3
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.06,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.82,
-              "cm": 4.4
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.71,
-              "cm": 3.9
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.55,
-              "cm": 4.4
-            }
-          ]
-        },
-        {
-          "name": "Deer Valley",
-          "country": "United States",
-          "lat": 40.637,
-          "lon": -111.478,
-          "elevation_m": 2003,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 13.1,
-          "snow_range_cm": [
-            3.9,
-            23.7
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.2,
-              "cm": 0.3
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.06,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.82,
-              "cm": 4.4
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.71,
-              "cm": 3.9
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.55,
-              "cm": 4.4
-            }
-          ]
-        },
-        {
-          "name": "Taos",
-          "country": "United States",
-          "lat": 36.596,
-          "lon": -105.454,
-          "elevation_m": 2804,
-          "snow_probability": 0.92,
-          "expected_snow_cm": 7.3,
-          "snow_range_cm": [
-            1.5,
-            12.6
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.82,
-              "cm": 2.6
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.69,
-              "cm": 1.1
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.55,
-              "cm": 1.9
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.27,
-              "cm": 1.1
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.06,
-              "cm": 0.5
-            }
-          ]
-        },
-        {
-          "name": "Aspen",
-          "country": "United States",
-          "lat": 39.187,
-          "lon": -106.817,
-          "elevation_m": 2422,
-          "snow_probability": 0.9,
-          "expected_snow_cm": 10.0,
-          "snow_range_cm": [
-            1.5,
-            17.1
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.06,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.61,
-              "cm": 1.8
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.53,
-              "cm": 0.7
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.1,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.73,
-              "cm": 4.9
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.65,
-              "cm": 2.3
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.04,
-              "cm": 0.2
+              "date": "2026-04-17",
+              "prob": 0.29,
+              "cm": 1.7
             }
           ]
         },
@@ -1358,18 +945,13 @@
           "lat": 45.817,
           "lon": -110.897,
           "elevation_m": 1859,
-          "snow_probability": 0.86,
-          "expected_snow_cm": 8.8,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 14.3,
           "snow_range_cm": [
-            0.0,
-            18.3
+            4.5,
+            24.0
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -1377,28 +959,133 @@
             },
             {
               "date": "2026-04-12",
-              "prob": 0.18,
-              "cm": 0.3
+              "prob": 0.35,
+              "cm": 0.7
             },
             {
               "date": "2026-04-13",
-              "prob": 0.39,
-              "cm": 1.1
+              "prob": 0.55,
+              "cm": 1.6
             },
             {
               "date": "2026-04-14",
-              "prob": 0.41,
+              "prob": 0.35,
               "cm": 1.5
             },
             {
               "date": "2026-04-15",
-              "prob": 0.43,
-              "cm": 1.1
+              "prob": 0.47,
+              "cm": 1.3
             },
             {
               "date": "2026-04-16",
-              "prob": 0.67,
-              "cm": 4.7
+              "prob": 0.86,
+              "cm": 6.6
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.37,
+              "cm": 2.6
+            }
+          ]
+        },
+        {
+          "name": "Taos",
+          "country": "United States",
+          "lat": 36.596,
+          "lon": -105.454,
+          "elevation_m": 2804,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 6.5,
+          "snow_range_cm": [
+            3.0,
+            12.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.92,
+              "cm": 3.2
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.92,
+              "cm": 1.1
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.57,
+              "cm": 2.1
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.08,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Whitefish",
+          "country": "United States",
+          "lat": 48.484,
+          "lon": -114.355,
+          "elevation_m": 1342,
+          "snow_probability": 0.96,
+          "expected_snow_cm": 8.6,
+          "snow_range_cm": [
+            2.1,
+            17.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.2,
+              "cm": 0.5
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.14,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.55,
+              "cm": 2.5
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.25,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.84,
+              "cm": 3.4
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.33,
+              "cm": 1.4
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.14,
+              "cm": 0.3
             }
           ]
         },
@@ -1408,47 +1095,47 @@
           "lat": 39.64,
           "lon": -106.374,
           "elevation_m": 2476,
-          "snow_probability": 0.75,
-          "expected_snow_cm": 4.1,
+          "snow_probability": 0.92,
+          "expected_snow_cm": 6.2,
           "snow_range_cm": [
-            0.0,
-            9.3
+            1.5,
+            10.6
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.04,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.24,
-              "cm": 0.3
+              "prob": 0.16,
+              "cm": 0.2
             },
             {
               "date": "2026-04-12",
-              "prob": 0.2,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-13",
               "prob": 0.02,
               "cm": 0.0
             },
             {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
               "date": "2026-04-14",
-              "prob": 0.43,
-              "cm": 1.6
+              "prob": 0.73,
+              "cm": 2.9
             },
             {
               "date": "2026-04-15",
-              "prob": 0.45,
-              "cm": 1.8
+              "prob": 0.33,
+              "cm": 0.6
             },
             {
               "date": "2026-04-16",
-              "prob": 0.1,
-              "cm": 0.3
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.57,
+              "cm": 2.5
             }
           ]
         },
@@ -1458,26 +1145,284 @@
           "lat": 39.481,
           "lon": -106.046,
           "elevation_m": 2926,
-          "snow_probability": 0.63,
-          "expected_snow_cm": 3.4,
+          "snow_probability": 0.65,
+          "expected_snow_cm": 2.6,
+          "snow_range_cm": [
+            0.0,
+            6.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.06,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.04,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.43,
+              "cm": 1.3
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.24,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.24,
+              "cm": 0.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canadian_rockies",
+      "name": "Canadian Rockies",
+      "avg_snow_probability": 0.94,
+      "resorts_with_snow": 6,
+      "total_resorts": 6,
+      "best_resort": {
+        "name": "Revelstoke",
+        "expected_snow_cm": 12.3
+      },
+      "resorts": [
+        {
+          "name": "Whistler Blackcomb",
+          "country": "Canada",
+          "lat": 50.115,
+          "lon": -122.957,
+          "elevation_m": 675,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 10.2,
+          "snow_range_cm": [
+            5.1,
+            15.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.9,
+              "cm": 4.7
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.98,
+              "cm": 5.4
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.02,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Banff Sunshine",
+          "country": "Canada",
+          "lat": 51.115,
+          "lon": -115.763,
+          "elevation_m": 1660,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 8.7,
+          "snow_range_cm": [
+            3.0,
+            16.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.31,
+              "cm": 0.7
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.06,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.08,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.96,
+              "cm": 6.5
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.43,
+              "cm": 1.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.04,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Revelstoke",
+          "country": "Canada",
+          "lat": 51.033,
+          "lon": -118.167,
+          "elevation_m": 512,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 12.3,
+          "snow_range_cm": [
+            5.1,
+            19.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.04,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.1,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.04,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.82,
+              "cm": 1.9
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.94,
+              "cm": 9.5
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.04,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.1,
+              "cm": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Fernie",
+          "country": "Canada",
+          "lat": 49.462,
+          "lon": -115.087,
+          "elevation_m": 1068,
+          "snow_probability": 0.96,
+          "expected_snow_cm": 8.9,
+          "snow_range_cm": [
+            3.3,
+            14.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.27,
+              "cm": 0.5
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.94,
+              "cm": 6.1
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.35,
+              "cm": 2.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Kicking Horse",
+          "country": "Canada",
+          "lat": 51.297,
+          "lon": -117.048,
+          "elevation_m": 1190,
+          "snow_probability": 0.88,
+          "expected_snow_cm": 5.3,
           "snow_range_cm": [
             0.0,
             9.0
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.1,
-              "cm": 0.1
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.31,
-              "cm": 0.6
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-12",
-              "prob": 0.27,
+              "prob": 0.12,
               "cm": 0.3
             },
             {
@@ -1487,18 +1432,73 @@
             },
             {
               "date": "2026-04-14",
-              "prob": 0.25,
-              "cm": 0.7
+              "prob": 0.06,
+              "cm": 0.1
             },
             {
               "date": "2026-04-15",
-              "prob": 0.29,
-              "cm": 1.5
+              "prob": 0.84,
+              "cm": 4.5
             },
             {
               "date": "2026-04-16",
-              "prob": 0.06,
+              "prob": 0.2,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.04,
               "cm": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Lake Louise",
+          "country": "Canada",
+          "lat": 51.426,
+          "lon": -116.177,
+          "elevation_m": 1646,
+          "snow_probability": 0.82,
+          "expected_snow_cm": 5.1,
+          "snow_range_cm": [
+            0.0,
+            9.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.24,
+              "cm": 0.4
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.2,
+              "cm": 0.4
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.1,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.76,
+              "cm": 3.5
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.18,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         }
@@ -1507,12 +1507,12 @@
     {
       "id": "cascades",
       "name": "Cascades",
-      "avg_snow_probability": 0.85,
-      "resorts_with_snow": 5,
+      "avg_snow_probability": 0.92,
+      "resorts_with_snow": 6,
       "total_resorts": 6,
       "best_resort": {
         "name": "Mt. Hood Meadows",
-        "expected_snow_cm": 44.7
+        "expected_snow_cm": 56.3
       },
       "resorts": [
         {
@@ -1522,46 +1522,46 @@
           "lon": -121.688,
           "elevation_m": 1920,
           "snow_probability": 1.0,
-          "expected_snow_cm": 43.2,
+          "expected_snow_cm": 48.8,
           "snow_range_cm": [
-            25.8,
-            57.0
+            31.2,
+            64.3
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.9,
-              "cm": 3.1
-            },
-            {
               "date": "2026-04-11",
-              "prob": 1.0,
-              "cm": 6.9
+              "prob": 0.98,
+              "cm": 4.7
             },
             {
               "date": "2026-04-12",
-              "prob": 0.94,
-              "cm": 5.1
+              "prob": 0.98,
+              "cm": 5.8
             },
             {
               "date": "2026-04-13",
-              "prob": 0.78,
-              "cm": 5.0
+              "prob": 0.96,
+              "cm": 9.6
             },
             {
               "date": "2026-04-14",
-              "prob": 0.16,
+              "prob": 0.12,
               "cm": 0.2
             },
             {
               "date": "2026-04-15",
-              "prob": 0.96,
-              "cm": 20.1
+              "prob": 1.0,
+              "cm": 23.2
             },
             {
               "date": "2026-04-16",
-              "prob": 0.67,
-              "cm": 2.8
+              "prob": 0.88,
+              "cm": 5.2
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.06,
+              "cm": 0.0
             }
           ]
         },
@@ -1572,46 +1572,46 @@
           "lon": -121.474,
           "elevation_m": 1341,
           "snow_probability": 1.0,
-          "expected_snow_cm": 21.5,
+          "expected_snow_cm": 19.0,
           "snow_range_cm": [
-            9.6,
-            34.2
+            10.2,
+            26.7
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.57,
-              "cm": 1.6
+              "prob": 0.41,
+              "cm": 1.2
             },
             {
               "date": "2026-04-12",
-              "prob": 0.12,
+              "prob": 0.04,
               "cm": 0.1
             },
             {
               "date": "2026-04-13",
-              "prob": 0.12,
-              "cm": 0.1
+              "prob": 0.06,
+              "cm": 0.0
             },
             {
               "date": "2026-04-14",
-              "prob": 0.55,
-              "cm": 2.3
+              "prob": 0.65,
+              "cm": 1.9
             },
             {
               "date": "2026-04-15",
-              "prob": 0.98,
-              "cm": 16.8
+              "prob": 1.0,
+              "cm": 14.6
             },
             {
               "date": "2026-04-16",
-              "prob": 0.27,
-              "cm": 0.6
+              "prob": 0.53,
+              "cm": 1.1
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.04,
+              "cm": 0.1
             }
           ]
         },
@@ -1622,46 +1622,46 @@
           "lon": -121.089,
           "elevation_m": 1238,
           "snow_probability": 1.0,
-          "expected_snow_cm": 30.9,
+          "expected_snow_cm": 25.4,
           "snow_range_cm": [
-            18.6,
-            42.9
+            17.1,
+            32.7
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.35,
-              "cm": 0.9
+              "prob": 0.25,
+              "cm": 0.5
             },
             {
               "date": "2026-04-12",
-              "prob": 0.02,
+              "prob": 0.06,
               "cm": 0.0
             },
             {
               "date": "2026-04-13",
-              "prob": 0.1,
-              "cm": 0.2
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-14",
               "prob": 0.88,
-              "cm": 7.8
+              "cm": 5.2
             },
             {
               "date": "2026-04-15",
               "prob": 1.0,
-              "cm": 21.2
+              "cm": 18.1
             },
             {
               "date": "2026-04-16",
-              "prob": 0.37,
-              "cm": 0.7
+              "prob": 0.39,
+              "cm": 1.1
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.5
             }
           ]
         },
@@ -1672,46 +1672,46 @@
           "lon": -121.665,
           "elevation_m": 1524,
           "snow_probability": 1.0,
-          "expected_snow_cm": 44.7,
+          "expected_snow_cm": 56.3,
           "snow_range_cm": [
-            27.0,
-            61.3
+            43.1,
+            72.9
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.02,
-              "cm": 0.0
+              "date": "2026-04-11",
+              "prob": 1.0,
+              "cm": 10.4
             },
             {
-              "date": "2026-04-11",
+              "date": "2026-04-12",
+              "prob": 0.98,
+              "cm": 6.1
+            },
+            {
+              "date": "2026-04-13",
               "prob": 0.96,
               "cm": 8.0
             },
             {
-              "date": "2026-04-12",
-              "prob": 0.69,
-              "cm": 2.4
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.75,
-              "cm": 3.3
-            },
-            {
               "date": "2026-04-14",
-              "prob": 0.55,
-              "cm": 1.9
+              "prob": 0.59,
+              "cm": 1.7
             },
             {
               "date": "2026-04-15",
               "prob": 1.0,
-              "cm": 25.8
+              "cm": 24.9
             },
             {
               "date": "2026-04-16",
-              "prob": 0.71,
-              "cm": 3.3
+              "prob": 0.8,
+              "cm": 4.6
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.2,
+              "cm": 0.6
             }
           ]
         },
@@ -1722,17 +1722,12 @@
           "lon": -134.51,
           "elevation_m": 369,
           "snow_probability": 1.0,
-          "expected_snow_cm": 15.6,
+          "expected_snow_cm": 13.9,
           "snow_range_cm": [
-            8.1,
-            26.3
+            4.9,
+            27.0
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 1.0,
-              "cm": 3.8
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -1740,18 +1735,18 @@
             },
             {
               "date": "2026-04-12",
-              "prob": 0.02,
-              "cm": 0.1
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-13",
-              "prob": 0.96,
-              "cm": 6.3
+              "prob": 0.98,
+              "cm": 7.0
             },
             {
               "date": "2026-04-14",
-              "prob": 0.78,
-              "cm": 2.8
+              "prob": 0.84,
+              "cm": 3.0
             },
             {
               "date": "2026-04-15",
@@ -1760,8 +1755,13 @@
             },
             {
               "date": "2026-04-16",
-              "prob": 0.41,
-              "cm": 2.5
+              "prob": 0.29,
+              "cm": 1.7
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.37,
+              "cm": 2.1
             }
           ]
         },
@@ -1771,18 +1771,13 @@
           "lat": 60.954,
           "lon": -149.098,
           "elevation_m": 76,
-          "snow_probability": 0.1,
-          "expected_snow_cm": 0.4,
+          "snow_probability": 0.55,
+          "expected_snow_cm": 1.4,
           "snow_range_cm": [
             0.0,
-            0.0
+            3.5
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -1790,13 +1785,13 @@
             },
             {
               "date": "2026-04-12",
-              "prob": 0.06,
-              "cm": 0.1
+              "prob": 0.45,
+              "cm": 0.7
             },
             {
               "date": "2026-04-13",
-              "prob": 0.04,
-              "cm": 0.2
+              "prob": 0.02,
+              "cm": 0.0
             },
             {
               "date": "2026-04-14",
@@ -1805,12 +1800,80 @@
             },
             {
               "date": "2026-04-15",
-              "prob": 0.02,
-              "cm": 0.0
+              "prob": 0.08,
+              "cm": 0.1
             },
             {
               "date": "2026-04-16",
-              "prob": 0.02,
+              "prob": 0.16,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dolomites",
+      "name": "Dolomites",
+      "avg_snow_probability": 0.82,
+      "resorts_with_snow": 1,
+      "total_resorts": 1,
+      "best_resort": {
+        "name": "Cortina d'Ampezzo",
+        "expected_snow_cm": 11.8
+      },
+      "resorts": [
+        {
+          "name": "Cortina d'Ampezzo",
+          "country": "Italy",
+          "lat": 46.537,
+          "lon": 12.135,
+          "elevation_m": 1224,
+          "snow_probability": 0.82,
+          "expected_snow_cm": 11.8,
+          "snow_range_cm": [
+            0.0,
+            24.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.53,
+              "cm": 2.6
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.78,
+              "cm": 5.8
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.22,
+              "cm": 2.1
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.14,
+              "cm": 1.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.04,
               "cm": 0.1
             }
           ]
@@ -1820,12 +1883,12 @@
     {
       "id": "oceania",
       "name": "Oceania",
-      "avg_snow_probability": 0.82,
+      "avg_snow_probability": 0.76,
       "resorts_with_snow": 6,
       "total_resorts": 7,
       "best_resort": {
         "name": "The Remarkables",
-        "expected_snow_cm": 25.7
+        "expected_snow_cm": 40.2
       },
       "resorts": [
         {
@@ -1835,46 +1898,46 @@
           "lon": 168.818,
           "elevation_m": 1586,
           "snow_probability": 1.0,
-          "expected_snow_cm": 25.7,
+          "expected_snow_cm": 40.2,
           "snow_range_cm": [
-            8.1,
-            46.7
+            21.0,
+            59.7
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.2,
-              "cm": 0.4
+              "prob": 0.14,
+              "cm": 0.2
             },
             {
               "date": "2026-04-12",
-              "prob": 0.57,
-              "cm": 2.1
+              "prob": 0.47,
+              "cm": 1.4
             },
             {
               "date": "2026-04-13",
-              "prob": 0.8,
-              "cm": 6.1
+              "prob": 0.92,
+              "cm": 7.2
             },
             {
               "date": "2026-04-14",
-              "prob": 0.47,
-              "cm": 1.6
+              "prob": 0.41,
+              "cm": 1.0
             },
             {
               "date": "2026-04-15",
-              "prob": 0.63,
-              "cm": 4.8
+              "prob": 0.88,
+              "cm": 4.6
             },
             {
               "date": "2026-04-16",
-              "prob": 0.75,
-              "cm": 10.7
+              "prob": 0.98,
+              "cm": 13.2
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.94,
+              "cm": 12.6
             }
           ]
         },
@@ -1885,46 +1948,46 @@
           "lon": 168.941,
           "elevation_m": 1670,
           "snow_probability": 1.0,
-          "expected_snow_cm": 22.1,
+          "expected_snow_cm": 34.8,
           "snow_range_cm": [
-            9.0,
-            33.8
+            20.4,
+            56.1
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.18,
-              "cm": 0.5
+              "prob": 0.06,
+              "cm": 0.1
             },
             {
               "date": "2026-04-12",
-              "prob": 0.55,
-              "cm": 1.4
+              "prob": 0.35,
+              "cm": 1.3
             },
             {
               "date": "2026-04-13",
-              "prob": 0.84,
-              "cm": 5.4
+              "prob": 0.98,
+              "cm": 7.5
             },
             {
               "date": "2026-04-14",
-              "prob": 0.33,
-              "cm": 1.0
+              "prob": 0.29,
+              "cm": 0.7
             },
             {
               "date": "2026-04-15",
-              "prob": 0.49,
-              "cm": 3.2
+              "prob": 0.76,
+              "cm": 3.3
             },
             {
               "date": "2026-04-16",
-              "prob": 0.75,
-              "cm": 10.6
+              "prob": 0.96,
+              "cm": 12.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.76,
+              "cm": 9.7
             }
           ]
         },
@@ -1934,18 +1997,13 @@
           "lat": -44.634,
           "lon": 168.903,
           "elevation_m": 1260,
-          "snow_probability": 0.98,
-          "expected_snow_cm": 17.6,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 27.6,
           "snow_range_cm": [
-            4.2,
-            33.1
+            15.9,
+            43.7
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -1953,78 +2011,33 @@
             },
             {
               "date": "2026-04-12",
-              "prob": 0.12,
-              "cm": 0.3
+              "prob": 0.14,
+              "cm": 0.4
             },
             {
               "date": "2026-04-13",
-              "prob": 0.61,
-              "cm": 3.3
+              "prob": 0.96,
+              "cm": 5.2
             },
             {
               "date": "2026-04-14",
-              "prob": 0.33,
-              "cm": 1.0
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.47,
-              "cm": 3.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.75,
-              "cm": 9.9
-            }
-          ]
-        },
-        {
-          "name": "Falls Creek",
-          "country": "Australia",
-          "lat": -36.863,
-          "lon": 147.275,
-          "elevation_m": 1500,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 5.1,
-          "snow_range_cm": [
-            1.1,
-            9.5
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.94,
-              "cm": 3.1
-            },
-            {
-              "date": "2026-04-11",
               "prob": 0.25,
-              "cm": 0.6
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.43,
-              "cm": 1.1
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.02,
-              "cm": 0.0
+              "cm": 0.5
             },
             {
               "date": "2026-04-15",
-              "prob": 0.04,
-              "cm": 0.0
+              "prob": 0.76,
+              "cm": 2.9
             },
             {
               "date": "2026-04-16",
-              "prob": 0.1,
-              "cm": 0.3
+              "prob": 0.96,
+              "cm": 11.6
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.67,
+              "cm": 7.0
             }
           ]
         },
@@ -2034,18 +2047,13 @@
           "lat": -45.03,
           "lon": 168.723,
           "elevation_m": 1649,
-          "snow_probability": 0.86,
-          "expected_snow_cm": 12.3,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 17.8,
           "snow_range_cm": [
-            0.0,
-            31.4
+            3.2,
+            34.6
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -2054,27 +2062,32 @@
             {
               "date": "2026-04-12",
               "prob": 0.04,
-              "cm": 0.0
+              "cm": 0.1
             },
             {
               "date": "2026-04-13",
-              "prob": 0.33,
-              "cm": 1.0
+              "prob": 0.43,
+              "cm": 1.2
             },
             {
               "date": "2026-04-14",
-              "prob": 0.27,
-              "cm": 0.9
+              "prob": 0.16,
+              "cm": 0.4
             },
             {
               "date": "2026-04-15",
-              "prob": 0.53,
-              "cm": 3.2
+              "prob": 0.76,
+              "cm": 2.9
             },
             {
               "date": "2026-04-16",
-              "prob": 0.65,
-              "cm": 7.2
+              "prob": 0.75,
+              "cm": 7.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.73,
+              "cm": 5.9
             }
           ]
         },
@@ -2084,32 +2097,27 @@
           "lat": -36.5,
           "lon": 148.307,
           "elevation_m": 1365,
-          "snow_probability": 0.82,
-          "expected_snow_cm": 3.3,
+          "snow_probability": 0.75,
+          "expected_snow_cm": 2.8,
           "snow_range_cm": [
             0.0,
-            6.9
+            6.3
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.29,
-              "cm": 0.7
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.18,
-              "cm": 0.3
+              "prob": 0.29,
+              "cm": 0.4
             },
             {
               "date": "2026-04-12",
-              "prob": 0.63,
+              "prob": 0.67,
               "cm": 2.0
             },
             {
               "date": "2026-04-13",
-              "prob": 0.04,
-              "cm": 0.1
+              "prob": 0.02,
+              "cm": 0.0
             },
             {
               "date": "2026-04-14",
@@ -2123,8 +2131,63 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.04,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.06,
+              "cm": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Falls Creek",
+          "country": "Australia",
+          "lat": -36.863,
+          "lon": 147.275,
+          "elevation_m": 1500,
+          "snow_probability": 0.55,
+          "expected_snow_cm": 1.6,
+          "snow_range_cm": [
+            0.0,
+            4.8
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
               "prob": 0.08,
               "cm": 0.2
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.49,
+              "cm": 0.9
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.06,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.02,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.2,
+              "cm": 0.5
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
@@ -2134,18 +2197,13 @@
           "lat": -36.407,
           "lon": 148.41,
           "elevation_m": 1720,
-          "snow_probability": 0.1,
+          "snow_probability": 0.04,
           "expected_snow_cm": 0.1,
           "snow_range_cm": [
             0.0,
             0.0
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.08,
-              "cm": 0.1
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -2174,6 +2232,11 @@
             {
               "date": "2026-04-16",
               "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.04,
               "cm": 0.1
             }
           ]
@@ -2183,114 +2246,14 @@
     {
       "id": "northeast_usa",
       "name": "Northeast USA",
-      "avg_snow_probability": 0.71,
+      "avg_snow_probability": 0.65,
       "resorts_with_snow": 5,
       "total_resorts": 7,
       "best_resort": {
         "name": "Sugarloaf",
-        "expected_snow_cm": 20.6
+        "expected_snow_cm": 21.0
       },
       "resorts": [
-        {
-          "name": "Killington",
-          "country": "United States",
-          "lat": 43.604,
-          "lon": -72.82,
-          "elevation_m": 1000,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 7.8,
-          "snow_range_cm": [
-            2.7,
-            13.8
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 1.0,
-              "cm": 4.1
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.39,
-              "cm": 1.8
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.33,
-              "cm": 1.7
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.06,
-              "cm": 0.2
-            }
-          ]
-        },
-        {
-          "name": "Sugarbush",
-          "country": "United States",
-          "lat": 44.136,
-          "lon": -72.901,
-          "elevation_m": 823,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 8.0,
-          "snow_range_cm": [
-            2.7,
-            14.9
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.94,
-              "cm": 5.2
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.06,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.57,
-              "cm": 2.8
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
         {
           "name": "Sugarloaf",
           "country": "United States",
@@ -2298,21 +2261,16 @@
           "lon": -70.313,
           "elevation_m": 640,
           "snow_probability": 1.0,
-          "expected_snow_cm": 20.6,
+          "expected_snow_cm": 21.0,
           "snow_range_cm": [
-            10.2,
-            35.4
+            10.9,
+            34.2
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.94,
-              "cm": 4.7
+              "cm": 3.7
             },
             {
               "date": "2026-04-12",
@@ -2321,8 +2279,8 @@
             },
             {
               "date": "2026-04-13",
-              "prob": 0.92,
-              "cm": 10.0
+              "prob": 1.0,
+              "cm": 10.5
             },
             {
               "date": "2026-04-14",
@@ -2331,13 +2289,18 @@
             },
             {
               "date": "2026-04-15",
-              "prob": 0.53,
-              "cm": 4.1
+              "prob": 0.49,
+              "cm": 3.0
             },
             {
               "date": "2026-04-16",
-              "prob": 0.35,
-              "cm": 1.8
+              "prob": 0.49,
+              "cm": 3.1
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.6
             }
           ]
         },
@@ -2348,31 +2311,26 @@
           "lon": -73.903,
           "elevation_m": 377,
           "snow_probability": 1.0,
-          "expected_snow_cm": 7.8,
+          "expected_snow_cm": 7.6,
           "snow_range_cm": [
-            2.7,
-            14.7
+            3.2,
+            11.1
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.92,
-              "cm": 4.7
+              "prob": 0.39,
+              "cm": 0.9
             },
             {
               "date": "2026-04-12",
-              "prob": 0.41,
-              "cm": 0.5
+              "prob": 0.69,
+              "cm": 1.2
             },
             {
               "date": "2026-04-13",
-              "prob": 0.71,
-              "cm": 2.6
+              "prob": 0.96,
+              "cm": 5.2
             },
             {
               "date": "2026-04-14",
@@ -2381,11 +2339,116 @@
             },
             {
               "date": "2026-04-15",
+              "prob": 0.04,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Killington",
+          "country": "United States",
+          "lat": 43.604,
+          "lon": -72.82,
+          "elevation_m": 1000,
+          "snow_probability": 0.96,
+          "expected_snow_cm": 6.7,
+          "snow_range_cm": [
+            2.3,
+            10.2
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.75,
+              "cm": 1.5
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.2,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.84,
+              "cm": 4.1
+            },
+            {
+              "date": "2026-04-14",
               "prob": 0.0,
               "cm": 0.0
             },
             {
+              "date": "2026-04-15",
+              "prob": 0.1,
+              "cm": 0.3
+            },
+            {
               "date": "2026-04-16",
+              "prob": 0.14,
+              "cm": 0.5
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.04,
+              "cm": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Sugarbush",
+          "country": "United States",
+          "lat": 44.136,
+          "lon": -72.901,
+          "elevation_m": 823,
+          "snow_probability": 0.94,
+          "expected_snow_cm": 8.1,
+          "snow_range_cm": [
+            2.2,
+            13.4
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.71,
+              "cm": 1.6
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.27,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.88,
+              "cm": 6.1
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.02,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2397,32 +2460,27 @@
           "lat": 44.938,
           "lon": -72.506,
           "elevation_m": 585,
-          "snow_probability": 0.82,
-          "expected_snow_cm": 3.9,
+          "snow_probability": 0.63,
+          "expected_snow_cm": 2.6,
           "snow_range_cm": [
             0.0,
-            8.8
+            9.1
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
+              "date": "2026-04-11",
+              "prob": 0.39,
+              "cm": 0.5
+            },
+            {
+              "date": "2026-04-12",
               "prob": 0.0,
               "cm": 0.0
             },
             {
-              "date": "2026-04-11",
-              "prob": 0.71,
-              "cm": 2.3
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-13",
-              "prob": 0.33,
-              "cm": 1.6
+              "prob": 0.35,
+              "cm": 1.9
             },
             {
               "date": "2026-04-14",
@@ -2431,11 +2489,16 @@
             },
             {
               "date": "2026-04-15",
+              "prob": 0.02,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-04-16",
               "prob": 0.0,
               "cm": 0.0
             },
             {
-              "date": "2026-04-16",
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2447,22 +2510,17 @@
           "lat": 44.53,
           "lon": -72.781,
           "elevation_m": 390,
-          "snow_probability": 0.18,
-          "expected_snow_cm": 0.3,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
           "snow_range_cm": [
             0.0,
-            1.3
+            0.0
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
+              "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.18,
-              "cm": 0.3
             },
             {
               "date": "2026-04-12",
@@ -2471,7 +2529,7 @@
             },
             {
               "date": "2026-04-13",
-              "prob": 0.02,
+              "prob": 0.0,
               "cm": 0.0
             },
             {
@@ -2486,6 +2544,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2505,11 +2568,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
@@ -2536,6 +2594,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2547,11 +2610,11 @@
       "id": "alps",
       "name": "European Alps",
       "avg_snow_probability": 0.62,
-      "resorts_with_snow": 10,
+      "resorts_with_snow": 11,
       "total_resorts": 14,
       "best_resort": {
         "name": "Val d'Isere",
-        "expected_snow_cm": 29.9
+        "expected_snow_cm": 30.5
       },
       "resorts": [
         {
@@ -2561,17 +2624,12 @@
           "lon": 6.98,
           "elevation_m": 1850,
           "snow_probability": 1.0,
-          "expected_snow_cm": 29.9,
+          "expected_snow_cm": 30.5,
           "snow_range_cm": [
-            14.1,
-            50.1
+            14.4,
+            54.6
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -2579,78 +2637,33 @@
             },
             {
               "date": "2026-04-12",
-              "prob": 0.94,
-              "cm": 4.7
+              "prob": 0.98,
+              "cm": 4.9
             },
             {
               "date": "2026-04-13",
-              "prob": 0.98,
-              "cm": 23.0
+              "prob": 1.0,
+              "cm": 22.4
             },
             {
               "date": "2026-04-14",
               "prob": 0.49,
-              "cm": 2.0
+              "cm": 1.8
             },
             {
               "date": "2026-04-15",
-              "prob": 0.02,
-              "cm": 0.0
+              "prob": 0.18,
+              "cm": 1.5
             },
             {
               "date": "2026-04-16",
-              "prob": 0.02,
-              "cm": 0.2
-            }
-          ]
-        },
-        {
-          "name": "Lech",
-          "country": "Austria",
-          "lat": 47.21,
-          "lon": 10.142,
-          "elevation_m": 1450,
-          "snow_probability": 1.0,
-          "expected_snow_cm": 10.3,
-          "snow_range_cm": [
-            3.3,
-            19.5
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 1.0,
-              "cm": 5.8
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.02,
+              "prob": 0.0,
               "cm": 0.0
             },
             {
-              "date": "2026-04-12",
-              "prob": 0.04,
+              "date": "2026-04-17",
+              "prob": 0.0,
               "cm": 0.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.14,
-              "cm": 0.5
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.57,
-              "cm": 2.4
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.22,
-              "cm": 1.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.14,
-              "cm": 0.5
             }
           ]
         },
@@ -2660,246 +2673,96 @@
           "lat": 46.024,
           "lon": 7.749,
           "elevation_m": 1608,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 17.8,
+          "snow_probability": 0.98,
+          "expected_snow_cm": 19.3,
           "snow_range_cm": [
-            8.7,
-            27.3
+            8.1,
+            33.3
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.78,
-              "cm": 3.3
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.94,
-              "cm": 13.1
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.27,
-              "cm": 0.8
-            },
-            {
-              "date": "2026-04-15",
               "prob": 0.04,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.02,
-              "cm": 0.2
-            }
-          ]
-        },
-        {
-          "name": "St. Anton",
-          "country": "Austria",
-          "lat": 47.13,
-          "lon": 10.268,
-          "elevation_m": 1304,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 7.3,
-          "snow_range_cm": [
-            1.5,
-            15.5
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.96,
-              "cm": 3.9
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.02,
               "cm": 0.0
             },
             {
               "date": "2026-04-12",
-              "prob": 0.02,
-              "cm": 0.0
+              "prob": 0.92,
+              "cm": 5.9
             },
             {
               "date": "2026-04-13",
-              "prob": 0.12,
-              "cm": 0.4
+              "prob": 0.98,
+              "cm": 9.6
             },
             {
               "date": "2026-04-14",
-              "prob": 0.47,
-              "cm": 1.7
+              "prob": 0.43,
+              "cm": 1.9
             },
             {
               "date": "2026-04-15",
               "prob": 0.2,
-              "cm": 0.9
+              "cm": 1.9
             },
             {
               "date": "2026-04-16",
-              "prob": 0.1,
-              "cm": 0.4
-            }
-          ]
-        },
-        {
-          "name": "Ischgl",
-          "country": "Austria",
-          "lat": 47.015,
-          "lon": 10.294,
-          "elevation_m": 1377,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 5.7,
-          "snow_range_cm": [
-            1.0,
-            9.9
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.96,
-              "cm": 3.8
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
               "prob": 0.02,
               "cm": 0.0
             },
             {
-              "date": "2026-04-13",
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Lech",
+          "country": "Austria",
+          "lat": 47.21,
+          "lon": 10.142,
+          "elevation_m": 1450,
+          "snow_probability": 0.92,
+          "expected_snow_cm": 5.5,
+          "snow_range_cm": [
+            1.2,
+            11.4
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.04,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.08,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.37,
+              "cm": 0.8
             },
             {
               "date": "2026-04-14",
-              "prob": 0.24,
-              "cm": 0.8
+              "prob": 0.73,
+              "cm": 3.0
             },
             {
               "date": "2026-04-15",
               "prob": 0.18,
-              "cm": 0.8
+              "cm": 0.9
             },
             {
               "date": "2026-04-16",
-              "prob": 0.08,
-              "cm": 0.2
-            }
-          ]
-        },
-        {
-          "name": "Courchevel",
-          "country": "France",
-          "lat": 45.415,
-          "lon": 6.634,
-          "elevation_m": 1850,
-          "snow_probability": 0.82,
-          "expected_snow_cm": 6.9,
-          "snow_range_cm": [
-            0.0,
-            13.5
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.37,
-              "cm": 0.7
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.76,
-              "cm": 5.6
-            },
-            {
-              "date": "2026-04-14",
               "prob": 0.22,
-              "cm": 0.4
+              "cm": 0.5
             },
             {
-              "date": "2026-04-15",
-              "prob": 0.02,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.02,
-              "cm": 0.2
-            }
-          ]
-        },
-        {
-          "name": "Meribel",
-          "country": "France",
-          "lat": 45.397,
-          "lon": 6.566,
-          "elevation_m": 1450,
-          "snow_probability": 0.82,
-          "expected_snow_cm": 5.1,
-          "snow_range_cm": [
-            0.0,
-            13.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.06,
-              "cm": 0.1
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.55,
-              "cm": 2.3
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.47,
-              "cm": 1.5
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.1,
-              "cm": 0.6
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.2,
-              "cm": 0.3
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.04,
+              "date": "2026-04-17",
+              "prob": 0.12,
               "cm": 0.3
             }
           ]
@@ -2910,47 +2773,197 @@
           "lat": 46.608,
           "lon": 7.922,
           "elevation_m": 1274,
-          "snow_probability": 0.8,
-          "expected_snow_cm": 5.4,
+          "snow_probability": 0.9,
+          "expected_snow_cm": 9.3,
           "snow_range_cm": [
-            0.0,
-            12.0
+            0.6,
+            19.7
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.12,
+              "cm": 0.1
             },
             {
               "date": "2026-04-12",
-              "prob": 0.37,
-              "cm": 0.7
+              "prob": 0.61,
+              "cm": 1.7
             },
             {
               "date": "2026-04-13",
-              "prob": 0.45,
-              "cm": 1.2
+              "prob": 0.75,
+              "cm": 3.1
             },
             {
               "date": "2026-04-14",
-              "prob": 0.33,
-              "cm": 1.2
+              "prob": 0.51,
+              "cm": 2.2
             },
             {
               "date": "2026-04-15",
-              "prob": 0.25,
+              "prob": 0.22,
               "cm": 1.4
             },
             {
               "date": "2026-04-16",
-              "prob": 0.2,
-              "cm": 0.9
+              "prob": 0.14,
+              "cm": 0.7
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Meribel",
+          "country": "France",
+          "lat": 45.397,
+          "lon": 6.566,
+          "elevation_m": 1450,
+          "snow_probability": 0.9,
+          "expected_snow_cm": 5.0,
+          "snow_range_cm": [
+            1.0,
+            9.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.08,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.71,
+              "cm": 2.6
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.59,
+              "cm": 1.8
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.12,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.06,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.1
+            }
+          ]
+        },
+        {
+          "name": "St. Anton",
+          "country": "Austria",
+          "lat": 47.13,
+          "lon": 10.268,
+          "elevation_m": 1304,
+          "snow_probability": 0.86,
+          "expected_snow_cm": 4.6,
+          "snow_range_cm": [
+            0.0,
+            8.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.04,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.04,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.35,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.71,
+              "cm": 2.6
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.16,
+              "cm": 0.8
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.16,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Courchevel",
+          "country": "France",
+          "lat": 45.415,
+          "lon": 6.634,
+          "elevation_m": 1850,
+          "snow_probability": 0.86,
+          "expected_snow_cm": 6.1,
+          "snow_range_cm": [
+            0.0,
+            12.3
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.39,
+              "cm": 0.7
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.82,
+              "cm": 4.5
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.14,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.14,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
@@ -2960,71 +2973,66 @@
           "lat": 46.096,
           "lon": 7.228,
           "elevation_m": 1500,
-          "snow_probability": 0.57,
-          "expected_snow_cm": 3.1,
+          "snow_probability": 0.67,
+          "expected_snow_cm": 3.6,
           "snow_range_cm": [
             0.0,
-            7.8
+            9.3
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.08,
+              "cm": 0.2
             },
             {
               "date": "2026-04-12",
-              "prob": 0.27,
-              "cm": 1.0
+              "prob": 0.35,
+              "cm": 0.9
             },
             {
               "date": "2026-04-13",
-              "prob": 0.41,
-              "cm": 1.6
+              "prob": 0.45,
+              "cm": 1.2
             },
             {
               "date": "2026-04-14",
-              "prob": 0.1,
-              "cm": 0.3
+              "prob": 0.22,
+              "cm": 0.6
             },
             {
               "date": "2026-04-15",
-              "prob": 0.04,
-              "cm": 0.1
+              "prob": 0.16,
+              "cm": 0.7
             },
             {
               "date": "2026-04-16",
               "prob": 0.02,
-              "cm": 0.1
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
         {
-          "name": "Saalbach",
+          "name": "Ischgl",
           "country": "Austria",
-          "lat": 47.391,
-          "lon": 12.636,
-          "elevation_m": 1003,
-          "snow_probability": 0.47,
-          "expected_snow_cm": 1.4,
+          "lat": 47.015,
+          "lon": 10.294,
+          "elevation_m": 1377,
+          "snow_probability": 0.59,
+          "expected_snow_cm": 3.2,
           "snow_range_cm": [
             0.0,
-            3.9
+            6.9
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.45,
-              "cm": 1.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.0,
+              "prob": 0.02,
               "cm": 0.0
             },
             {
@@ -3034,22 +3042,27 @@
             },
             {
               "date": "2026-04-13",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.24,
+              "cm": 0.5
             },
             {
               "date": "2026-04-14",
-              "prob": 0.02,
-              "cm": 0.0
+              "prob": 0.51,
+              "cm": 1.6
             },
             {
               "date": "2026-04-15",
-              "prob": 0.06,
-              "cm": 0.3
+              "prob": 0.16,
+              "cm": 0.8
             },
             {
               "date": "2026-04-16",
-              "prob": 0.04,
+              "prob": 0.08,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.02,
               "cm": 0.1
             }
           ]
@@ -3060,18 +3073,13 @@
           "lat": 46.475,
           "lon": 7.286,
           "elevation_m": 1050,
-          "snow_probability": 0.18,
-          "expected_snow_cm": 0.7,
+          "snow_probability": 0.49,
+          "expected_snow_cm": 1.5,
           "snow_range_cm": [
             0.0,
-            2.9
+            4.8
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -3079,27 +3087,32 @@
             },
             {
               "date": "2026-04-12",
-              "prob": 0.04,
-              "cm": 0.1
+              "prob": 0.02,
+              "cm": 0.0
             },
             {
               "date": "2026-04-13",
-              "prob": 0.08,
-              "cm": 0.1
+              "prob": 0.33,
+              "cm": 0.6
             },
             {
               "date": "2026-04-14",
-              "prob": 0.06,
-              "cm": 0.3
+              "prob": 0.2,
+              "cm": 0.5
             },
             {
               "date": "2026-04-15",
-              "prob": 0.06,
-              "cm": 0.2
+              "prob": 0.16,
+              "cm": 0.4
             },
             {
               "date": "2026-04-16",
-              "prob": 0.02,
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
               "cm": 0.0
             }
           ]
@@ -3110,18 +3123,13 @@
           "lat": 45.924,
           "lon": 6.869,
           "elevation_m": 1035,
-          "snow_probability": 0.16,
-          "expected_snow_cm": 0.5,
+          "snow_probability": 0.31,
+          "expected_snow_cm": 0.9,
           "snow_range_cm": [
             0.0,
-            1.5
+            2.2
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -3134,23 +3142,78 @@
             },
             {
               "date": "2026-04-13",
-              "prob": 0.1,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.08,
+              "prob": 0.2,
               "cm": 0.3
             },
             {
+              "date": "2026-04-14",
+              "prob": 0.2,
+              "cm": 0.5
+            },
+            {
               "date": "2026-04-15",
-              "prob": 0.02,
-              "cm": 0.0
+              "prob": 0.04,
+              "cm": 0.1
             },
             {
               "date": "2026-04-16",
               "prob": 0.0,
               "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Saalbach",
+          "country": "Austria",
+          "lat": 47.391,
+          "lon": 12.636,
+          "elevation_m": 1003,
+          "snow_probability": 0.24,
+          "expected_snow_cm": 1.9,
+          "snow_range_cm": [
+            0.0,
+            5.4
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.06,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.14,
+              "cm": 1.1
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.14,
+              "cm": 0.4
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.08,
+              "cm": 0.4
             }
           ]
         },
@@ -3160,18 +3223,13 @@
           "lat": 47.446,
           "lon": 12.391,
           "elevation_m": 762,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
+          "snow_probability": 0.02,
+          "expected_snow_cm": 0.1,
           "snow_range_cm": [
             0.0,
             0.0
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -3194,11 +3252,16 @@
             },
             {
               "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.02,
+              "cm": 0.1
             },
             {
               "date": "2026-04-16",
+              "prob": 0.02,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3218,11 +3281,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
@@ -3249,6 +3307,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3259,12 +3322,12 @@
     {
       "id": "japanese_alps",
       "name": "Japanese Alps",
-      "avg_snow_probability": 0.37,
-      "resorts_with_snow": 2,
+      "avg_snow_probability": 0.4,
+      "resorts_with_snow": 3,
       "total_resorts": 6,
       "best_resort": {
-        "name": "Niseko",
-        "expected_snow_cm": 5.9
+        "name": "Shiga Kogen",
+        "expected_snow_cm": 5.7
       },
       "resorts": [
         {
@@ -3273,71 +3336,16 @@
           "lat": 42.863,
           "lon": 140.687,
           "elevation_m": 343,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 5.9,
-          "snow_range_cm": [
-            2.9,
-            9.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.96,
-              "cm": 5.9
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Rusutsu",
-          "country": "Japan",
-          "lat": 42.748,
-          "lon": 140.897,
-          "elevation_m": 400,
-          "snow_probability": 0.94,
+          "snow_probability": 1.0,
           "expected_snow_cm": 4.7,
           "snow_range_cm": [
-            1.5,
-            7.1
+            2.1,
+            6.9
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
-              "prob": 0.94,
+              "prob": 1.0,
               "cm": 4.7
             },
             {
@@ -3364,6 +3372,61 @@
               "date": "2026-04-16",
               "prob": 0.0,
               "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Rusutsu",
+          "country": "Japan",
+          "lat": 42.748,
+          "lon": 140.897,
+          "elevation_m": 400,
+          "snow_probability": 0.84,
+          "expected_snow_cm": 2.4,
+          "snow_range_cm": [
+            0.0,
+            4.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.84,
+              "cm": 2.4
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
@@ -3373,18 +3436,13 @@
           "lat": 36.685,
           "lon": 138.523,
           "elevation_m": 1340,
-          "snow_probability": 0.24,
-          "expected_snow_cm": 1.4,
+          "snow_probability": 0.59,
+          "expected_snow_cm": 5.7,
           "snow_range_cm": [
             0.0,
-            5.4
+            14.4
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.08,
-              "cm": 0.1
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -3397,7 +3455,7 @@
             },
             {
               "date": "2026-04-13",
-              "prob": 0.02,
+              "prob": 0.0,
               "cm": 0.0
             },
             {
@@ -3407,13 +3465,18 @@
             },
             {
               "date": "2026-04-15",
-              "prob": 0.14,
-              "cm": 1.3
+              "prob": 0.51,
+              "cm": 3.7
             },
             {
               "date": "2026-04-16",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.04,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.14,
+              "cm": 1.6
             }
           ]
         },
@@ -3423,22 +3486,17 @@
           "lat": 36.698,
           "lon": 137.832,
           "elevation_m": 703,
-          "snow_probability": 0.08,
-          "expected_snow_cm": 0.1,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
           "snow_range_cm": [
             0.0,
             0.0
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
+              "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.08,
-              "cm": 0.1
             },
             {
               "date": "2026-04-12",
@@ -3462,6 +3520,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3481,11 +3544,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
@@ -3512,6 +3570,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3531,11 +3594,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
@@ -3562,6 +3620,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3570,34 +3633,129 @@
       ]
     },
     {
-      "id": "dolomites",
-      "name": "Dolomites",
-      "avg_snow_probability": 0.35,
-      "resorts_with_snow": 1,
-      "total_resorts": 1,
+      "id": "andes",
+      "name": "Andes",
+      "avg_snow_probability": 0.32,
+      "resorts_with_snow": 2,
+      "total_resorts": 5,
       "best_resort": {
-        "name": "Cortina d'Ampezzo",
-        "expected_snow_cm": 2.5
+        "name": "Las Lenas",
+        "expected_snow_cm": 2.6
       },
       "resorts": [
         {
-          "name": "Cortina d'Ampezzo",
-          "country": "Italy",
-          "lat": 46.537,
-          "lon": 12.135,
-          "elevation_m": 1224,
-          "snow_probability": 0.35,
-          "expected_snow_cm": 2.5,
+          "name": "Cerro Catedral",
+          "country": "Argentina",
+          "lat": -41.169,
+          "lon": -71.441,
+          "elevation_m": 1030,
+          "snow_probability": 0.69,
+          "expected_snow_cm": 2.2,
           "snow_range_cm": [
             0.0,
-            7.8
+            4.8
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
+              "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
             },
+            {
+              "date": "2026-04-12",
+              "prob": 0.53,
+              "cm": 1.1
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.14,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.16,
+              "cm": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Portillo",
+          "country": "Chile",
+          "lat": -32.838,
+          "lon": -70.131,
+          "elevation_m": 2590,
+          "snow_probability": 0.49,
+          "expected_snow_cm": 1.2,
+          "snow_range_cm": [
+            0.0,
+            2.7
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.43,
+              "cm": 0.9
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.02,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.06,
+              "cm": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Las Lenas",
+          "country": "Argentina",
+          "lat": -35.135,
+          "lon": -70.075,
+          "elevation_m": 2240,
+          "snow_probability": 0.25,
+          "expected_snow_cm": 2.6,
+          "snow_range_cm": [
+            0.0,
+            12.3
+          ],
+          "daily_forecast": [
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -3610,23 +3768,128 @@
             },
             {
               "date": "2026-04-13",
-              "prob": 0.06,
-              "cm": 0.2
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-14",
-              "prob": 0.24,
-              "cm": 1.6
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-15",
-              "prob": 0.1,
-              "cm": 0.7
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-16",
+              "prob": 0.06,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.25,
+              "cm": 2.3
+            }
+          ]
+        },
+        {
+          "name": "Valle Nevado",
+          "country": "Chile",
+          "lat": -33.376,
+          "lon": -70.254,
+          "elevation_m": 2860,
+          "snow_probability": 0.12,
+          "expected_snow_cm": 0.7,
+          "snow_range_cm": [
+            0.0,
+            1.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.02,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.1,
+              "cm": 0.6
+            }
+          ]
+        },
+        {
+          "name": "Chapelco",
+          "country": "Argentina",
+          "lat": -40.127,
+          "lon": -71.231,
+          "elevation_m": 1250,
+          "snow_probability": 0.04,
+          "expected_snow_cm": 0.1,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-04-11",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-12",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-13",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-14",
               "prob": 0.04,
               "cm": 0.1
+            },
+            {
+              "date": "2026-04-15",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         }
@@ -3635,12 +3898,12 @@
     {
       "id": "scandinavia",
       "name": "Scandinavia",
-      "avg_snow_probability": 0.3,
+      "avg_snow_probability": 0.27,
       "resorts_with_snow": 2,
       "total_resorts": 6,
       "best_resort": {
         "name": "Hemsedal",
-        "expected_snow_cm": 10.7
+        "expected_snow_cm": 7.2
       },
       "resorts": [
         {
@@ -3649,18 +3912,13 @@
           "lat": 60.862,
           "lon": 8.394,
           "elevation_m": 659,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 10.7,
+          "snow_probability": 0.8,
+          "expected_snow_cm": 7.2,
           "snow_range_cm": [
-            1.5,
-            23.7
+            0.0,
+            15.6
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -3668,28 +3926,33 @@
             },
             {
               "date": "2026-04-12",
-              "prob": 0.43,
-              "cm": 0.9
+              "prob": 0.22,
+              "cm": 0.3
             },
             {
               "date": "2026-04-13",
-              "prob": 0.88,
-              "cm": 3.4
+              "prob": 0.61,
+              "cm": 1.4
             },
             {
               "date": "2026-04-14",
-              "prob": 0.71,
-              "cm": 5.5
+              "prob": 0.59,
+              "cm": 4.3
             },
             {
               "date": "2026-04-15",
-              "prob": 0.06,
-              "cm": 0.2
+              "prob": 0.2,
+              "cm": 0.4
             },
             {
               "date": "2026-04-16",
-              "prob": 0.18,
+              "prob": 0.25,
               "cm": 0.8
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.06,
+              "cm": 0.0
             }
           ]
         },
@@ -3699,18 +3962,13 @@
           "lat": 60.534,
           "lon": 8.207,
           "elevation_m": 800,
-          "snow_probability": 0.82,
-          "expected_snow_cm": 6.6,
+          "snow_probability": 0.8,
+          "expected_snow_cm": 6.9,
           "snow_range_cm": [
             0.0,
             15.9
           ],
           "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-04-11",
               "prob": 0.0,
@@ -3718,28 +3976,33 @@
             },
             {
               "date": "2026-04-12",
-              "prob": 0.12,
-              "cm": 0.2
+              "prob": 0.0,
+              "cm": 0.0
             },
             {
               "date": "2026-04-13",
-              "prob": 0.63,
-              "cm": 1.8
+              "prob": 0.61,
+              "cm": 1.1
             },
             {
               "date": "2026-04-14",
-              "prob": 0.67,
-              "cm": 4.2
+              "prob": 0.71,
+              "cm": 4.9
             },
             {
               "date": "2026-04-15",
-              "prob": 0.08,
-              "cm": 0.1
+              "prob": 0.12,
+              "cm": 0.4
             },
             {
               "date": "2026-04-16",
-              "prob": 0.08,
-              "cm": 0.3
+              "prob": 0.25,
+              "cm": 0.5
+            },
+            {
+              "date": "2026-04-17",
+              "prob": 0.04,
+              "cm": 0.0
             }
           ]
         },
@@ -3757,11 +4020,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
@@ -3788,6 +4046,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3807,11 +4070,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
@@ -3838,6 +4096,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3857,11 +4120,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
@@ -3888,6 +4146,11 @@
             },
             {
               "date": "2026-04-16",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3907,11 +4170,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-04-11",
               "prob": 0.0,
               "cm": 0.0
@@ -3940,267 +4198,9 @@
               "date": "2026-04-16",
               "prob": 0.0,
               "cm": 0.0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "andes",
-      "name": "Andes",
-      "avg_snow_probability": 0.22,
-      "resorts_with_snow": 2,
-      "total_resorts": 5,
-      "best_resort": {
-        "name": "Cerro Catedral",
-        "expected_snow_cm": 1.1
-      },
-      "resorts": [
-        {
-          "name": "Cerro Catedral",
-          "country": "Argentina",
-          "lat": -41.169,
-          "lon": -71.441,
-          "elevation_m": 1030,
-          "snow_probability": 0.55,
-          "expected_snow_cm": 1.1,
-          "snow_range_cm": [
-            0.0,
-            2.4
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
             },
             {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.49,
-              "cm": 0.8
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.12,
-              "cm": 0.3
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Portillo",
-          "country": "Chile",
-          "lat": -32.838,
-          "lon": -70.131,
-          "elevation_m": 2590,
-          "snow_probability": 0.41,
-          "expected_snow_cm": 1.0,
-          "snow_range_cm": [
-            0.0,
-            2.7
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.16,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.41,
-              "cm": 0.8
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Las Lenas",
-          "country": "Argentina",
-          "lat": -35.135,
-          "lon": -70.075,
-          "elevation_m": 2240,
-          "snow_probability": 0.12,
-          "expected_snow_cm": 0.3,
-          "snow_range_cm": [
-            0.0,
-            1.5
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.04,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.1,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.02,
-              "cm": 0.1
-            }
-          ]
-        },
-        {
-          "name": "Valle Nevado",
-          "country": "Chile",
-          "lat": -33.376,
-          "lon": -70.254,
-          "elevation_m": 2860,
-          "snow_probability": 0.02,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Chapelco",
-          "country": "Argentina",
-          "lat": -40.127,
-          "lon": -71.231,
-          "elevation_m": 1250,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-04-10",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-11",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-12",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-13",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-14",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-15",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-04-16",
+              "date": "2026-04-17",
               "prob": 0.0,
               "cm": 0.0
             }
