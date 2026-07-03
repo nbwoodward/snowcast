@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T15:23:31.043705+00:00",
-  "forecast_init_time": "2026-07-02T15:23:31.043714+00:00",
+  "generated_at": "2026-07-03T15:09:12.042468+00:00",
+  "forecast_init_time": "2026-07-03T15:09:12.042478+00:00",
   "regions": [
     {
       "id": "oceania",
@@ -10,7 +10,7 @@
       "total_resorts": 7,
       "best_resort": {
         "name": "Cardrona",
-        "expected_snow_cm": 63.2
+        "expected_snow_cm": 58.1
       },
       "resorts": [
         {
@@ -20,21 +20,16 @@
           "lon": 148.307,
           "elevation_m": 1365,
           "snow_probability": 1.0,
-          "expected_snow_cm": 55.8,
+          "expected_snow_cm": 8.8,
           "snow_range_cm": [
-            48.9,
-            62.5
+            6.5,
+            11.8
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 1.0,
-              "cm": 46.8
-            },
-            {
               "date": "2026-07-03",
               "prob": 1.0,
-              "cm": 9.0
+              "cm": 8.8
             },
             {
               "date": "2026-07-04",
@@ -58,7 +53,12 @@
             },
             {
               "date": "2026-07-08",
-              "prob": 0.02,
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
               "cm": 0.0
             }
           ]
@@ -70,21 +70,16 @@
           "lon": 148.41,
           "elevation_m": 1720,
           "snow_probability": 1.0,
-          "expected_snow_cm": 28.4,
+          "expected_snow_cm": 2.9,
           "snow_range_cm": [
-            22.5,
-            34.2
+            1.1,
+            4.7
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 1.0,
-              "cm": 24.9
-            },
-            {
               "date": "2026-07-03",
               "prob": 1.0,
-              "cm": 3.5
+              "cm": 2.9
             },
             {
               "date": "2026-07-04",
@@ -108,6 +103,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -120,21 +120,16 @@
           "lon": 147.275,
           "elevation_m": 1500,
           "snow_probability": 1.0,
-          "expected_snow_cm": 55.8,
+          "expected_snow_cm": 4.6,
           "snow_range_cm": [
-            49.4,
-            63.5
+            2.7,
+            6.1
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 1.0,
-              "cm": 50.1
-            },
-            {
               "date": "2026-07-03",
               "prob": 1.0,
-              "cm": 5.3
+              "cm": 4.6
             },
             {
               "date": "2026-07-04",
@@ -158,8 +153,13 @@
             },
             {
               "date": "2026-07-08",
-              "prob": 0.06,
-              "cm": 0.3
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
@@ -170,46 +170,46 @@
           "lon": 168.723,
           "elevation_m": 1649,
           "snow_probability": 1.0,
-          "expected_snow_cm": 46.5,
+          "expected_snow_cm": 38.1,
           "snow_range_cm": [
-            18.3,
-            76.2
+            14.0,
+            69.7
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
-              "prob": 0.94,
-              "cm": 18.3
+              "prob": 0.78,
+              "cm": 13.2
             },
             {
               "date": "2026-07-04",
-              "prob": 0.98,
-              "cm": 23.4
+              "prob": 1.0,
+              "cm": 19.4
             },
             {
               "date": "2026-07-05",
-              "prob": 0.59,
-              "cm": 4.5
+              "prob": 0.69,
+              "cm": 3.9
             },
             {
               "date": "2026-07-06",
-              "prob": 0.06,
+              "prob": 0.08,
               "cm": 0.2
             },
             {
               "date": "2026-07-07",
-              "prob": 0.02,
-              "cm": 0.0
+              "prob": 0.12,
+              "cm": 0.6
             },
             {
               "date": "2026-07-08",
-              "prob": 0.02,
-              "cm": 0.1
+              "prob": 0.12,
+              "cm": 0.7
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
@@ -220,46 +220,46 @@
           "lon": 168.818,
           "elevation_m": 1586,
           "snow_probability": 1.0,
-          "expected_snow_cm": 58.6,
+          "expected_snow_cm": 53.9,
           "snow_range_cm": [
-            36.0,
-            79.5
+            38.7,
+            72.9
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 1.0,
-              "cm": 27.8
+              "cm": 24.5
             },
             {
               "date": "2026-07-04",
               "prob": 1.0,
-              "cm": 26.0
+              "cm": 23.9
             },
             {
               "date": "2026-07-05",
-              "prob": 0.59,
-              "cm": 4.5
+              "prob": 0.69,
+              "cm": 3.9
             },
             {
               "date": "2026-07-06",
-              "prob": 0.06,
+              "prob": 0.08,
               "cm": 0.2
             },
             {
               "date": "2026-07-07",
-              "prob": 0.02,
-              "cm": 0.0
+              "prob": 0.12,
+              "cm": 0.6
             },
             {
               "date": "2026-07-08",
-              "prob": 0.02,
-              "cm": 0.1
+              "prob": 0.12,
+              "cm": 0.7
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
@@ -270,46 +270,46 @@
           "lon": 168.941,
           "elevation_m": 1670,
           "snow_probability": 1.0,
-          "expected_snow_cm": 63.2,
+          "expected_snow_cm": 58.1,
           "snow_range_cm": [
-            36.3,
-            90.0
+            40.8,
+            79.2
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 1.0,
-              "cm": 29.6
+              "cm": 26.2
             },
             {
               "date": "2026-07-04",
               "prob": 1.0,
-              "cm": 28.6
+              "cm": 27.0
             },
             {
               "date": "2026-07-05",
-              "prob": 0.63,
-              "cm": 4.5
+              "prob": 0.75,
+              "cm": 3.9
             },
             {
               "date": "2026-07-06",
-              "prob": 0.06,
-              "cm": 0.1
+              "prob": 0.14,
+              "cm": 0.2
             },
             {
               "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.04,
+              "cm": 0.5
             },
             {
               "date": "2026-07-08",
-              "prob": 0.02,
+              "prob": 0.08,
               "cm": 0.4
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
@@ -320,46 +320,46 @@
           "lon": 168.903,
           "elevation_m": 1260,
           "snow_probability": 1.0,
-          "expected_snow_cm": 62.9,
+          "expected_snow_cm": 57.4,
           "snow_range_cm": [
-            36.3,
-            90.0
+            39.9,
+            79.2
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 1.0,
-              "cm": 29.5
+              "cm": 25.6
             },
             {
               "date": "2026-07-04",
               "prob": 1.0,
-              "cm": 28.4
+              "cm": 26.8
             },
             {
               "date": "2026-07-05",
-              "prob": 0.63,
-              "cm": 4.5
+              "prob": 0.75,
+              "cm": 3.9
             },
             {
               "date": "2026-07-06",
-              "prob": 0.06,
-              "cm": 0.1
+              "prob": 0.14,
+              "cm": 0.2
             },
             {
               "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.04,
+              "cm": 0.5
             },
             {
               "date": "2026-07-08",
-              "prob": 0.02,
+              "prob": 0.08,
               "cm": 0.4
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         }
@@ -372,8 +372,8 @@
       "resorts_with_snow": 5,
       "total_resorts": 5,
       "best_resort": {
-        "name": "Las Lenas",
-        "expected_snow_cm": 36.2
+        "name": "Chapelco",
+        "expected_snow_cm": 58.9
       },
       "resorts": [
         {
@@ -382,18 +382,13 @@
           "lat": -41.169,
           "lon": -71.441,
           "elevation_m": 1030,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 23.2,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 39.7,
           "snow_range_cm": [
-            4.9,
-            49.3
+            12.9,
+            69.7
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -411,18 +406,23 @@
             },
             {
               "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
+              "prob": 0.04,
+              "cm": 0.1
             },
             {
               "date": "2026-07-07",
-              "prob": 0.84,
-              "cm": 14.5
+              "prob": 0.96,
+              "cm": 16.5
             },
             {
               "date": "2026-07-08",
-              "prob": 0.69,
-              "cm": 8.7
+              "prob": 0.73,
+              "cm": 14.6
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.78,
+              "cm": 8.6
             }
           ]
         },
@@ -432,18 +432,13 @@
           "lat": -40.127,
           "lon": -71.231,
           "elevation_m": 1250,
-          "snow_probability": 0.96,
-          "expected_snow_cm": 31.9,
+          "snow_probability": 1.0,
+          "expected_snow_cm": 58.9,
           "snow_range_cm": [
-            8.4,
-            70.9
+            14.5,
+            107.2
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -466,13 +461,18 @@
             },
             {
               "date": "2026-07-07",
-              "prob": 0.8,
-              "cm": 15.2
+              "prob": 0.92,
+              "cm": 19.4
             },
             {
               "date": "2026-07-08",
-              "prob": 0.92,
-              "cm": 16.8
+              "prob": 0.86,
+              "cm": 26.9
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.88,
+              "cm": 12.6
             }
           ]
         },
@@ -482,68 +482,13 @@
           "lat": -35.135,
           "lon": -70.075,
           "elevation_m": 2240,
-          "snow_probability": 0.92,
-          "expected_snow_cm": 36.2,
-          "snow_range_cm": [
-            1.8,
-            76.2
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.27,
-              "cm": 0.4
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.51,
-              "cm": 1.6
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.2,
-              "cm": 1.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.82,
-              "cm": 33.2
-            }
-          ]
-        },
-        {
-          "name": "Valle Nevado",
-          "country": "Chile",
-          "lat": -33.376,
-          "lon": -70.254,
-          "elevation_m": 2860,
-          "snow_probability": 0.63,
-          "expected_snow_cm": 10.8,
+          "snow_probability": 0.82,
+          "expected_snow_cm": 24.7,
           "snow_range_cm": [
             0.0,
-            31.6
+            48.0
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -551,58 +496,8 @@
             },
             {
               "date": "2026-07-04",
-              "prob": 0.16,
-              "cm": 0.3
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.2,
-              "cm": 0.7
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
+              "prob": 0.02,
               "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.53,
-              "cm": 9.8
-            }
-          ]
-        },
-        {
-          "name": "Portillo",
-          "country": "Chile",
-          "lat": -32.838,
-          "lon": -70.131,
-          "elevation_m": 2590,
-          "snow_probability": 0.47,
-          "expected_snow_cm": 9.1,
-          "snow_range_cm": [
-            0.0,
-            32.4
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.14,
-              "cm": 0.2
             },
             {
               "date": "2026-07-05",
@@ -616,13 +511,118 @@
             },
             {
               "date": "2026-07-07",
+              "prob": 0.12,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.61,
+              "cm": 9.2
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.78,
+              "cm": 14.8
+            }
+          ]
+        },
+        {
+          "name": "Valle Nevado",
+          "country": "Chile",
+          "lat": -33.376,
+          "lon": -70.254,
+          "elevation_m": 2860,
+          "snow_probability": 0.61,
+          "expected_snow_cm": 4.9,
+          "snow_range_cm": [
+            0.0,
+            13.2
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.29,
+              "cm": 0.8
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.35,
+              "cm": 1.4
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
               "prob": 0.0,
               "cm": 0.0
             },
             {
               "date": "2026-07-08",
-              "prob": 0.39,
-              "cm": 8.8
+              "prob": 0.16,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.29,
+              "cm": 2.1
+            }
+          ]
+        },
+        {
+          "name": "Portillo",
+          "country": "Chile",
+          "lat": -32.838,
+          "lon": -70.131,
+          "elevation_m": 2590,
+          "snow_probability": 0.53,
+          "expected_snow_cm": 3.8,
+          "snow_range_cm": [
+            0.0,
+            12.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.25,
+              "cm": 0.8
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.18,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.12,
+              "cm": 0.3
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.25,
+              "cm": 2.1
             }
           ]
         }
@@ -631,12 +631,12 @@
     {
       "id": "us_rockies",
       "name": "US Rockies",
-      "avg_snow_probability": 0.05,
+      "avg_snow_probability": 0.11,
       "resorts_with_snow": 1,
       "total_resorts": 14,
       "best_resort": {
         "name": "Breckenridge",
-        "expected_snow_cm": 0.7
+        "expected_snow_cm": 1.7
       },
       "resorts": [
         {
@@ -645,18 +645,13 @@
           "lat": 39.481,
           "lon": -106.046,
           "elevation_m": 2926,
-          "snow_probability": 0.39,
-          "expected_snow_cm": 0.7,
+          "snow_probability": 0.63,
+          "expected_snow_cm": 1.7,
           "snow_range_cm": [
             0.0,
-            2.2
+            4.9
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -664,78 +659,33 @@
             },
             {
               "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.27,
-              "cm": 0.4
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.24,
-              "cm": 0.3
-            }
-          ]
-        },
-        {
-          "name": "Vail",
-          "country": "United States",
-          "lat": 39.64,
-          "lon": -106.374,
-          "elevation_m": 2476,
-          "snow_probability": 0.1,
-          "expected_snow_cm": 0.1,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.04,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
               "prob": 0.02,
               "cm": 0.0
             },
             {
-              "date": "2026-07-07",
+              "date": "2026-07-05",
               "prob": 0.0,
               "cm": 0.0
             },
             {
-              "date": "2026-07-08",
+              "date": "2026-07-06",
               "prob": 0.04,
               "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.35,
+              "cm": 0.8
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.43,
+              "cm": 0.6
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.2,
+              "cm": 0.2
             }
           ]
         },
@@ -745,18 +695,13 @@
           "lat": 36.596,
           "lon": -105.454,
           "elevation_m": 2804,
-          "snow_probability": 0.1,
-          "expected_snow_cm": 0.1,
+          "snow_probability": 0.27,
+          "expected_snow_cm": 0.5,
           "snow_range_cm": [
             0.0,
-            0.0
+            1.3
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -779,12 +724,67 @@
             },
             {
               "date": "2026-07-07",
-              "prob": 0.04,
+              "prob": 0.08,
               "cm": 0.1
             },
             {
               "date": "2026-07-08",
-              "prob": 0.04,
+              "prob": 0.14,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.1,
+              "cm": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Telluride",
+          "country": "United States",
+          "lat": 37.937,
+          "lon": -107.812,
+          "elevation_m": 2659,
+          "snow_probability": 0.25,
+          "expected_snow_cm": 0.5,
+          "snow_range_cm": [
+            0.0,
+            1.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.02,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.06,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.12,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.06,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.02,
               "cm": 0.0
             }
           ]
@@ -795,18 +795,13 @@
           "lat": 45.286,
           "lon": -111.401,
           "elevation_m": 2286,
-          "snow_probability": 0.06,
-          "expected_snow_cm": 0.1,
+          "snow_probability": 0.2,
+          "expected_snow_cm": 0.4,
           "snow_range_cm": [
             0.0,
-            0.0
+            1.5
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.06,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -829,22 +824,77 @@
             },
             {
               "date": "2026-07-07",
-              "prob": 0.02,
-              "cm": 0.1
+              "prob": 0.16,
+              "cm": 0.3
             },
             {
               "date": "2026-07-08",
+              "prob": 0.06,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
           ]
         },
         {
-          "name": "Telluride",
+          "name": "Vail",
           "country": "United States",
-          "lat": 37.937,
-          "lon": -107.812,
-          "elevation_m": 2659,
+          "lat": 39.64,
+          "lon": -106.374,
+          "elevation_m": 2476,
+          "snow_probability": 0.14,
+          "expected_snow_cm": 0.1,
+          "snow_range_cm": [
+            0.0,
+            0.6
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.12,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Park City",
+          "country": "United States",
+          "lat": 40.645,
+          "lon": -111.498,
+          "elevation_m": 2103,
           "snow_probability": 0.02,
           "expected_snow_cm": 0.0,
           "snow_range_cm": [
@@ -853,10 +903,55 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
             },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Deer Valley",
+          "country": "United States",
+          "lat": 40.637,
+          "lon": -111.478,
+          "elevation_m": 2003,
+          "snow_probability": 0.02,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -884,6 +979,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -903,11 +1003,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -936,54 +1031,9 @@
               "date": "2026-07-08",
               "prob": 0.0,
               "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Park City",
-          "country": "United States",
-          "lat": 40.645,
-          "lon": -111.498,
-          "elevation_m": 2103,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
             },
             {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1003,11 +1053,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1034,6 +1079,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1053,11 +1103,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1084,6 +1129,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1103,11 +1153,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1134,6 +1179,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1153,11 +1203,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1184,6 +1229,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1203,11 +1253,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1234,6 +1279,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1253,11 +1303,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1286,54 +1331,9 @@
               "date": "2026-07-08",
               "prob": 0.0,
               "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Deer Valley",
-          "country": "United States",
-          "lat": 40.637,
-          "lon": -111.478,
-          "elevation_m": 2003,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
             },
             {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1344,82 +1344,27 @@
     {
       "id": "canadian_rockies",
       "name": "Canadian Rockies",
-      "avg_snow_probability": 0.03,
+      "avg_snow_probability": 0.05,
       "resorts_with_snow": 0,
       "total_resorts": 6,
       "best_resort": {
-        "name": "Banff Sunshine",
-        "expected_snow_cm": 0.2
+        "name": "Lake Louise",
+        "expected_snow_cm": 0.5
       },
       "resorts": [
-        {
-          "name": "Banff Sunshine",
-          "country": "Canada",
-          "lat": 51.115,
-          "lon": -115.763,
-          "elevation_m": 1660,
-          "snow_probability": 0.14,
-          "expected_snow_cm": 0.2,
-          "snow_range_cm": [
-            0.0,
-            0.7
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.14,
-              "cm": 0.2
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
         {
           "name": "Lake Louise",
           "country": "Canada",
           "lat": 51.426,
           "lon": -116.177,
           "elevation_m": 1646,
-          "snow_probability": 0.04,
-          "expected_snow_cm": 0.1,
+          "snow_probability": 0.2,
+          "expected_snow_cm": 0.5,
           "snow_range_cm": [
             0.0,
-            0.0
+            1.5
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.02,
@@ -1427,7 +1372,57 @@
             },
             {
               "date": "2026-07-04",
+              "prob": 0.1,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-07-05",
               "prob": 0.02,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.06,
+              "cm": 0.3
+            }
+          ]
+        },
+        {
+          "name": "Banff Sunshine",
+          "country": "Canada",
+          "lat": 51.115,
+          "lon": -115.763,
+          "elevation_m": 1660,
+          "snow_probability": 0.12,
+          "expected_snow_cm": 0.1,
+          "snow_range_cm": [
+            0.0,
+            0.5
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.12,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
               "cm": 0.0
             },
             {
@@ -1447,6 +1442,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1466,11 +1466,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1497,6 +1492,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1516,11 +1516,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1547,6 +1542,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1566,11 +1566,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1597,6 +1592,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1616,11 +1616,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1649,6 +1644,11 @@
               "date": "2026-07-08",
               "prob": 0.0,
               "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         }
@@ -1657,14 +1657,64 @@
     {
       "id": "sierra_nevada",
       "name": "Sierra Nevada",
-      "avg_snow_probability": 0.01,
+      "avg_snow_probability": 0.03,
       "resorts_with_snow": 0,
       "total_resorts": 5,
       "best_resort": {
-        "name": "Mammoth Mountain",
-        "expected_snow_cm": 0.1
+        "name": "Kirkwood",
+        "expected_snow_cm": 0.2
       },
       "resorts": [
+        {
+          "name": "Kirkwood",
+          "country": "United States",
+          "lat": 38.685,
+          "lon": -120.065,
+          "elevation_m": 2377,
+          "snow_probability": 0.1,
+          "expected_snow_cm": 0.2,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.02,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.1,
+              "cm": 0.1
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
         {
           "name": "Mammoth Mountain",
           "country": "United States",
@@ -1678,11 +1728,6 @@
             0.0
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -1712,6 +1757,11 @@
               "date": "2026-07-08",
               "prob": 0.0,
               "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         },
@@ -1728,11 +1778,6 @@
             0.0
           ],
           "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -1760,6 +1805,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1779,11 +1829,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1812,54 +1857,9 @@
               "date": "2026-07-08",
               "prob": 0.0,
               "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Kirkwood",
-          "country": "United States",
-          "lat": 38.685,
-          "lon": -120.065,
-          "elevation_m": 2377,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
             },
             {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -1879,11 +1879,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -1912,29 +1907,34 @@
               "date": "2026-07-08",
               "prob": 0.0,
               "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
             }
           ]
         }
       ]
     },
     {
-      "id": "alps",
-      "name": "European Alps",
-      "avg_snow_probability": 0.0,
+      "id": "cascades",
+      "name": "Cascades",
+      "avg_snow_probability": 0.01,
       "resorts_with_snow": 0,
-      "total_resorts": 14,
+      "total_resorts": 6,
       "best_resort": {
-        "name": "Lech",
+        "name": "Mt. Bachelor",
         "expected_snow_cm": 0.2
       },
       "resorts": [
         {
-          "name": "Lech",
-          "country": "Austria",
-          "lat": 47.21,
-          "lon": 10.142,
-          "elevation_m": 1450,
-          "snow_probability": 0.02,
+          "name": "Mt. Bachelor",
+          "country": "United States",
+          "lat": 43.988,
+          "lon": -121.688,
+          "elevation_m": 1920,
+          "snow_probability": 0.06,
           "expected_snow_cm": 0.2,
           "snow_range_cm": [
             0.0,
@@ -1942,10 +1942,55 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
             },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.06,
+              "cm": 0.2
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Mt. Hood Meadows",
+          "country": "United States",
+          "lat": 45.331,
+          "lon": -121.665,
+          "elevation_m": 1524,
+          "snow_probability": 0.02,
+          "expected_snow_cm": 0.1,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -1974,715 +2019,10 @@
             {
               "date": "2026-07-08",
               "prob": 0.02,
-              "cm": 0.2
-            }
-          ]
-        },
-        {
-          "name": "Chamonix",
-          "country": "France",
-          "lat": 45.924,
-          "lon": 6.869,
-          "elevation_m": 1035,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Zermatt",
-          "country": "Switzerland",
-          "lat": 46.024,
-          "lon": 7.749,
-          "elevation_m": 1608,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "St. Anton",
-          "country": "Austria",
-          "lat": 47.13,
-          "lon": 10.268,
-          "elevation_m": 1304,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Val d'Isere",
-          "country": "France",
-          "lat": 45.448,
-          "lon": 6.98,
-          "elevation_m": 1850,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Verbier",
-          "country": "Switzerland",
-          "lat": 46.096,
-          "lon": 7.228,
-          "elevation_m": 1500,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Kitzbuhel",
-          "country": "Austria",
-          "lat": 47.446,
-          "lon": 12.391,
-          "elevation_m": 762,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Courchevel",
-          "country": "France",
-          "lat": 45.415,
-          "lon": 6.634,
-          "elevation_m": 1850,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Wengen",
-          "country": "Switzerland",
-          "lat": 46.608,
-          "lon": 7.922,
-          "elevation_m": 1274,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Gstaad",
-          "country": "Switzerland",
-          "lat": 46.475,
-          "lon": 7.286,
-          "elevation_m": 1050,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Innsbruck",
-          "country": "Austria",
-          "lat": 47.26,
-          "lon": 11.394,
-          "elevation_m": 574,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Ischgl",
-          "country": "Austria",
-          "lat": 47.015,
-          "lon": 10.294,
-          "elevation_m": 1377,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Meribel",
-          "country": "France",
-          "lat": 45.397,
-          "lon": 6.566,
-          "elevation_m": 1450,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Saalbach",
-          "country": "Austria",
-          "lat": 47.391,
-          "lon": 12.636,
-          "elevation_m": 1003,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cascades",
-      "name": "Cascades",
-      "avg_snow_probability": 0.0,
-      "resorts_with_snow": 0,
-      "total_resorts": 6,
-      "best_resort": null,
-      "resorts": [
-        {
-          "name": "Mt. Bachelor",
-          "country": "United States",
-          "lat": 43.988,
-          "lon": -121.688,
-          "elevation_m": 1920,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
+              "cm": 0.1
             },
             {
-              "date": "2026-07-08",
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2702,11 +2042,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -2733,6 +2068,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2752,11 +2092,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -2785,54 +2120,9 @@
               "date": "2026-07-08",
               "prob": 0.0,
               "cm": 0.0
-            }
-          ]
-        },
-        {
-          "name": "Mt. Hood Meadows",
-          "country": "United States",
-          "lat": 45.331,
-          "lon": -121.665,
-          "elevation_m": 1524,
-          "snow_probability": 0.0,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
             },
             {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2852,11 +2142,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -2883,6 +2168,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2902,10 +2192,68 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
             },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alps",
+      "name": "European Alps",
+      "avg_snow_probability": 0.0,
+      "resorts_with_snow": 0,
+      "total_resorts": 14,
+      "best_resort": {
+        "name": "Lech",
+        "expected_snow_cm": 0.1
+      },
+      "resorts": [
+        {
+          "name": "Lech",
+          "country": "Austria",
+          "lat": 47.21,
+          "lon": 10.142,
+          "elevation_m": 1450,
+          "snow_probability": 0.06,
+          "expected_snow_cm": 0.1,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -2933,6 +2281,661 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.06,
+              "cm": 0.1
+            }
+          ]
+        },
+        {
+          "name": "Chamonix",
+          "country": "France",
+          "lat": 45.924,
+          "lon": 6.869,
+          "elevation_m": 1035,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Zermatt",
+          "country": "Switzerland",
+          "lat": 46.024,
+          "lon": 7.749,
+          "elevation_m": 1608,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "St. Anton",
+          "country": "Austria",
+          "lat": 47.13,
+          "lon": 10.268,
+          "elevation_m": 1304,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Val d'Isere",
+          "country": "France",
+          "lat": 45.448,
+          "lon": 6.98,
+          "elevation_m": 1850,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Verbier",
+          "country": "Switzerland",
+          "lat": 46.096,
+          "lon": 7.228,
+          "elevation_m": 1500,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Kitzbuhel",
+          "country": "Austria",
+          "lat": 47.446,
+          "lon": 12.391,
+          "elevation_m": 762,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Courchevel",
+          "country": "France",
+          "lat": 45.415,
+          "lon": 6.634,
+          "elevation_m": 1850,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Wengen",
+          "country": "Switzerland",
+          "lat": 46.608,
+          "lon": 7.922,
+          "elevation_m": 1274,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Gstaad",
+          "country": "Switzerland",
+          "lat": 46.475,
+          "lon": 7.286,
+          "elevation_m": 1050,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Innsbruck",
+          "country": "Austria",
+          "lat": 47.26,
+          "lon": 11.394,
+          "elevation_m": 574,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Ischgl",
+          "country": "Austria",
+          "lat": 47.015,
+          "lon": 10.294,
+          "elevation_m": 1377,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Meribel",
+          "country": "France",
+          "lat": 45.397,
+          "lon": 6.566,
+          "elevation_m": 1450,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Saalbach",
+          "country": "Austria",
+          "lat": 47.391,
+          "lon": 12.636,
+          "elevation_m": 1003,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
+            {
+              "date": "2026-07-03",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -2962,11 +2965,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -2993,6 +2991,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3012,11 +3015,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3043,6 +3041,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3062,11 +3065,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3093,6 +3091,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3112,11 +3115,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3143,6 +3141,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3162,11 +3165,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3193,6 +3191,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3212,11 +3215,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3243,6 +3241,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3262,11 +3265,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3293,6 +3291,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3322,11 +3325,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3353,6 +3351,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3372,11 +3375,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3403,6 +3401,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3422,11 +3425,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3453,6 +3451,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3472,11 +3475,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3503,6 +3501,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3519,56 +3522,6 @@
       "best_resort": null,
       "resorts": [
         {
-          "name": "Hemsedal",
-          "country": "Norway",
-          "lat": 60.862,
-          "lon": 8.394,
-          "elevation_m": 659,
-          "snow_probability": 0.02,
-          "expected_snow_cm": 0.0,
-          "snow_range_cm": [
-            0.0,
-            0.0
-          ],
-          "daily_forecast": [
-            {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-03",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-04",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-05",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-06",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-07",
-              "prob": 0.02,
-              "cm": 0.0
-            },
-            {
-              "date": "2026-07-08",
-              "prob": 0.0,
-              "cm": 0.0
-            }
-          ]
-        },
-        {
           "name": "Are",
           "country": "Sweden",
           "lat": 63.398,
@@ -3582,11 +3535,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3613,6 +3561,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3632,10 +3585,55 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
             },
+            {
+              "date": "2026-07-04",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-05",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-06",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-07",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
+              "prob": 0.0,
+              "cm": 0.0
+            }
+          ]
+        },
+        {
+          "name": "Hemsedal",
+          "country": "Norway",
+          "lat": 60.862,
+          "lon": 8.394,
+          "elevation_m": 659,
+          "snow_probability": 0.0,
+          "expected_snow_cm": 0.0,
+          "snow_range_cm": [
+            0.0,
+            0.0
+          ],
+          "daily_forecast": [
             {
               "date": "2026-07-03",
               "prob": 0.0,
@@ -3663,6 +3661,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3682,11 +3685,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3713,6 +3711,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3732,11 +3735,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3763,6 +3761,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3782,11 +3785,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3813,6 +3811,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3842,11 +3845,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3873,6 +3871,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3892,11 +3895,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3923,6 +3921,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3942,11 +3945,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -3973,6 +3971,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -3992,11 +3995,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -4023,6 +4021,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -4042,11 +4045,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -4073,6 +4071,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -4092,11 +4095,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -4123,6 +4121,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
@@ -4152,11 +4155,6 @@
           ],
           "daily_forecast": [
             {
-              "date": "2026-07-02",
-              "prob": 0.0,
-              "cm": 0.0
-            },
-            {
               "date": "2026-07-03",
               "prob": 0.0,
               "cm": 0.0
@@ -4183,6 +4181,11 @@
             },
             {
               "date": "2026-07-08",
+              "prob": 0.0,
+              "cm": 0.0
+            },
+            {
+              "date": "2026-07-09",
               "prob": 0.0,
               "cm": 0.0
             }
